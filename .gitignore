@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large generated files
+*.npy
+
+# OS files
+.DS_Store
+Thumbs.db
