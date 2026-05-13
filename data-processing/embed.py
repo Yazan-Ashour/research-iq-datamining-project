@@ -253,14 +253,14 @@ def main():
 
     parser.add_argument(
         "--model",
-        default="all-MiniLM-L6-v2",
+        default="Alibaba-NLP/gte-modernbert-base",
         help="Sentence-transformer model",
     )
 
     parser.add_argument(
         "--batch_size",
         type=int,
-        default=64,
+        default=128,
         help="Embedding batch size",
     )
 
