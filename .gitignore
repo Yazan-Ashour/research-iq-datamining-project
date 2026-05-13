@@ -5,6 +5,8 @@ __pycache__/
 
 # Large generated files
 *.npy
+!data/prosecced/embeddings.npy
+!data/prosecced/paper_ids.npy
 
 # OS files
 .DS_Store
