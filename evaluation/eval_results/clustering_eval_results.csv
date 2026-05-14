@@ -1,0 +1,4 @@
+method,best_parameters_from_grid_search,runtime_seconds,inertia_sse,n_clusters_found,noise_ratio,silhouette_score,status,silhouette_norm,noise_norm,runtime_norm,final_score_numeric,rank
+DBSCAN,"{'eps': 0.9, 'min_samples': 10, 'metric': 'euclidean'}",2.805938243865967,,3,0.9970833333333333,0.25091835856437683,valid,1.0,0.0,1.0,0.75,1
+K-Means,"{'n_clusters': 5, 'init': 'k-means++', 'n_init': 10, 'max_iter': 300}",5.724410533905029,11038.20703125,5,0.0,0.03426620364189148,valid,0.027499816079503286,1.0,0.910097146516263,0.40301446162514143,2
+Agglomerative,"{'n_clusters': 5, 'linkage': 'ward', 'metric': 'euclidean'}",35.26844835281372,,5,0.0,0.028139835223555565,valid,0.0,1.0,0.0,0.25,3

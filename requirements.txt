@@ -24,6 +24,7 @@ mlxtend>=0.22
 # ── Visualisation
 plotly>=5.17
 streamlit>=1.30
+matplotlib>=3.7
 
 # ── Optional: GPU-accelerated UMAP (uncomment if you have CUDA)
 # cuml-cu11
