@@ -1,0 +1,32 @@
+# ResearchIQ — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Core data
+pandas>=2.0
+numpy>=1.24
+pyarrow>=12.0          # for .parquet read/write
+
+# ── NLP & Embeddings
+sentence-transformers>=2.2
+transformers>=4.30     # pulled in by sentence-transformers
+
+# ── Unsupervised ML
+umap-learn>=0.5
+hdbscan>=0.8
+scikit-learn>=1.3
+
+# ── Graph analysis
+networkx>=3.0
+
+# ── Association rule mining
+mlxtend>=0.22
+
+# ── Visualisation
+plotly>=5.17
+streamlit>=1.30
+
+# ── Optional: GPU-accelerated UMAP (uncomment if you have CUDA)
+# cuml-cu11
+
+# ── Optional: faster approximate nearest-neighbour search for recommender
+# faiss-cpu>=1.7

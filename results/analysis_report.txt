@@ -1,0 +1,458 @@
+Dataset Analysis
+
+=================================================================
+
+File : arxiv-metadata-oai-snapshot.json
+
+
+─────────────────────────────────────────────────────────────────
+FIELD PRESENCE RATES  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Field                         Present       Total     Rate
+  ─────────────────────────  ──────────  ──────────  ───────
+  abstract                    3,028,029   3,028,029   100.0%
+  authors                     3,028,029   3,028,029   100.0%
+  authors_parsed              3,028,029   3,028,029   100.0%
+  categories                  3,028,029   3,028,029   100.0%
+  comments                    2,194,895   3,028,029    72.5%
+  doi                         1,305,974   3,028,029    43.1%  ← moderate
+  id                          3,028,029   3,028,029   100.0%
+  journal-ref                   943,371   3,028,029    31.2%  ← moderate
+  license                     2,575,279   3,028,029    85.0%
+  report-no                     190,678   3,028,029     6.3%  ← sparse
+  submitter                   3,012,844   3,028,029    99.5%
+  title                       3,028,029   3,028,029   100.0%
+  update_date                 3,028,029   3,028,029   100.0%
+  versions                    3,028,029   3,028,029   100.0%
+
+  Total records scanned : 3,028,029
+
+
+─────────────────────────────────────────────────────────────────
+SAMPLE RECORDS (first 3)
+─────────────────────────────────────────────────────────────────
+
+  --- Record 0 ---
+{'abstract': '  A fully differential calculation in perturbative quantum '
+             'chromodynamics is\n'
+             'presented for the production of massive photon pairs at hadron '
+             'colliders. All\n'
+             'next-to-leading order perturbative contributions from '
+             'quark-antiquark,\n'
+             'gluon-(anti)quark, and gluon-gluon subprocesses are included, as '
+             'well as\n'
+             'all-orders resummation of initial-state gluon radiation valid '
+             'at\n'
+             'next-to-next-to-leading logarithmic accuracy. The region of '
+             'phase space is\n'
+             'specified in which the calculation is most reliable. Good '
+             'agreement is\n'
+             'demonstrated with data from the Fermilab Tevatron, and '
+             'predictions are made for\n'
+             'more detailed tests with CDF and DO data. Predictions are shown '
+             'for\n'
+             'distributions of diphoton pairs produced at the energy of the '
+             'Large Hadron\n'
+             'Collider (LHC). Distributions of the diphoton pairs from the '
+             'decay of a Higgs\n'
+             'boson are contrasted with those produced from QCD processes at '
+             'the LHC, showing\n'
+             'that enhanced sensitivity to the signal can be obtained with '
+             'judicious\n'
+             'selection of events.\n',
+ 'authors': "C. Bal\\'azs, E. L. Berger, P. M. Nadolsky, C.-P. Yuan",
+ 'authors_parsed': [['Balázs', 'C.', ''],
+                    ['Berger', 'E. L.', ''],
+                    ['Nadolsky', 'P. M.', ''],
+                    ['Yuan', 'C. -P.', '']],
+ 'categories': 'hep-ph',
+ 'comments': '37 pages, 15 figures; published version',
+ 'doi': '10.1103/PhysRevD.76.013009',
+ 'id': '0704.0001',
+ 'journal-ref': 'Phys.Rev.D76:013009,2007',
+ 'license': None,
+ 'report-no': 'ANL-HEP-PR-07-12',
+ 'submitter': 'Pavel Nadolsky',
+ 'title': 'Calculation of prompt diphoton production cross sections at '
+          'Tevatron and\n'
+          '  LHC energies',
+ 'update_date': '2008-11-26',
+ 'versions': [{'created': 'Mon, 2 Apr 2007 19:18:42 GMT', 'version': 'v1'},
+              {'created': 'Tue, 24 Jul 2007 20:10:27 GMT', 'version': 'v2'}]}
+
+  --- Record 1 ---
+{'abstract': '  We describe a new algorithm, the $(k,\\ell)$-pebble game with '
+             'colors, and use\n'
+             'it obtain a characterization of the family of $(k,\\ell)$-sparse '
+             'graphs and\n'
+             'algorithmic solutions to a family of problems concerning tree '
+             'decompositions of\n'
+             'graphs. Special instances of sparse graphs appear in rigidity '
+             'theory and have\n'
+             'received increased attention in recent years. In particular, our '
+             'colored\n'
+             'pebbles generalize and strengthen the previous results of Lee '
+             'and Streinu and\n'
+             'give a new proof of the Tutte-Nash-Williams characterization of '
+             'arboricity. We\n'
+             'also present a new decomposition that certifies sparsity based '
+             'on the\n'
+             '$(k,\\ell)$-pebble game with colors. Our work also exposes '
+             'connections between\n'
+             'pebble game algorithms and previous sparse graph algorithms by '
+             'Gabow, Gabow and\n'
+             'Westermann and Hendrickson.\n',
+ 'authors': 'Ileana Streinu and Louis Theran',
+ 'authors_parsed': [['Streinu', 'Ileana', ''], ['Theran', 'Louis', '']],
+ 'categories': 'math.CO cs.CG',
+ 'comments': 'To appear in Graphs and Combinatorics',
+ 'doi': None,
+ 'id': '0704.0002',
+ 'journal-ref': None,
+ 'license': 'http://arxiv.org/licenses/nonexclusive-distrib/1.0/',
+ 'report-no': None,
+ 'submitter': 'Louis Theran',
+ 'title': 'Sparsity-certifying Graph Decompositions',
+ 'update_date': '2008-12-13',
+ 'versions': [{'created': 'Sat, 31 Mar 2007 02:26:18 GMT', 'version': 'v1'},
+              {'created': 'Sat, 13 Dec 2008 17:26:00 GMT', 'version': 'v2'}]}
+
+  --- Record 2 ---
+{'abstract': '  The evolution of Earth-Moon system is described by the dark '
+             'matter field\n'
+             'fluid model proposed in the Meeting of Division of Particle and '
+             'Field 2004,\n'
+             'American Physical Society. The current behavior of the '
+             'Earth-Moon system agrees\n'
+             'with this model very well and the general pattern of the '
+             'evolution of the\n'
+             'Moon-Earth system described by this model agrees with geological '
+             'and fossil\n'
+             'evidence. The closest distance of the Moon to Earth was about '
+             '259000 km at 4.5\n'
+             "billion years ago, which is far beyond the Roche's limit. The "
+             'result suggests\n'
+             'that the tidal friction may not be the primary cause for the '
+             'evolution of the\n'
+             'Earth-Moon system. The average dark matter field fluid constant '
+             'derived from\n'
+             'Earth-Moon system data is 4.39 x 10^(-22) s^(-1)m^(-1). This '
+             'model predicts\n'
+             "that the Mars's rotation is also slowing with the angular "
+             'acceleration rate\n'
+             'about -4.38 x 10^(-22) rad s^(-2).\n',
+ 'authors': 'Hongjun Pan',
+ 'authors_parsed': [['Pan', 'Hongjun', '']],
+ 'categories': 'physics.gen-ph',
+ 'comments': '23 pages, 3 figures',
+ 'doi': None,
+ 'id': '0704.0003',
+ 'journal-ref': None,
+ 'license': None,
+ 'report-no': None,
+ 'submitter': 'Hongjun Pan',
+ 'title': 'The evolution of the Earth-Moon system based on the dark matter '
+          'field\n'
+          '  fluid model',
+ 'update_date': '2008-01-13',
+ 'versions': [{'created': 'Sun, 1 Apr 2007 20:46:54 GMT', 'version': 'v1'},
+              {'created': 'Sat, 8 Dec 2007 23:47:24 GMT', 'version': 'v2'},
+              {'created': 'Sun, 13 Jan 2008 00:36:28 GMT', 'version': 'v3'}]}
+
+
+─────────────────────────────────────────────────────────────────
+TITLES — COMPLETENESS AND LENGTH  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Total records           : 3,028,029
+  Missing / empty titles  : 0  (0.00%)
+  Mean length (chars)     : 75.7
+  Median length (chars)   : 72.0
+  Min / Max               : 1 / 382
+
+  Samples:
+    'Calculation of prompt diphoton production cross sections at Tevatron and
+  LHC energies'
+    'Sparsity-certifying Graph Decompositions'
+    'The evolution of the Earth-Moon system based on the dark matter field
+  fluid model'
+    'A determinant of Stirling cycle numbers counts unlabeled acyclic
+  single-source automata'
+    'From dyadic $\Lambda_{\alpha}$ to $\Lambda_{\alpha}$'
+
+
+─────────────────────────────────────────────────────────────────
+ABSTRACTS — LENGTH AND QUALITY  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Total records           : 3,028,029
+  Empty abstracts         : 0  (0.00%)
+  Abstracts with LaTeX    : 988,770  (32.65%)
+
+  Character length:
+    Min    : 3
+    Max    : 6088
+    Mean   : 995.1
+    Median : 976.0
+    Stdev  : 433.8
+    P10    : 432
+    P25    : 657
+    P75    : 1312
+    P90    : 1606
+
+  Word count:
+    Mean   : 145.2
+    Median : 142.0
+    Max    : 925
+
+  Character length distribution:
+         Range       Count       %   Cumulative%
+          0–50         874    0.0%          0.0%
+        50–100       6,010    0.2%          0.2%
+       100–150      16,230    0.5%          0.8%
+       150–200      25,008    0.8%          1.6%
+       200–300      80,824    2.7%          4.3%
+       300–400     124,924    4.1%          8.4%
+       400–500     166,943    5.5%         13.9%
+       500–700     435,804   14.4%         28.3%
+      700–1000     716,243   23.7%         51.9%
+     1000–1500   1,015,059   33.5%         85.5%
+         1500+     440,110   14.5%        100.0%
+
+  Retention at candidate MIN_ABSTRACT_LENGTH thresholds:
+   Threshold        Kept     Dropped   Retention%
+          50   3,027,155         874       100.0%
+         100   3,021,145       6,884        99.8%
+         150   3,004,915      23,114        99.2%
+         200   2,979,907      48,122        98.4%
+         250   2,945,063      82,966        97.3%
+         300   2,899,083     128,946        95.7%
+         400   2,774,159     253,870        91.6%
+         500   2,607,216     420,813        86.1%
+
+
+─────────────────────────────────────────────────────────────────
+DATES — TEMPORAL COVERAGE  (full dataset)
+─────────────────────────────────────────────────────────────────
+  update_date format      : YYYY-MM-DD
+  versions[0].created     : RFC-2822 (year via regex)
+  Malformed update_date   : 0
+
+  Year distribution — update_date:
+  Year         Count       %   Cumulative%
+  2007       145,296    4.8%          4.8%
+  2008        69,208    2.3%          7.1%
+  2009       228,823    7.6%         14.6%
+  2010        56,072    1.9%         16.5%
+  2011        61,686    2.0%         18.5%
+  2012        57,108    1.9%         20.4%
+  2013        71,660    2.4%         22.8%
+  2014        87,625    2.9%         25.7%
+  2015       214,243    7.1%         32.8%
+  2016       132,828    4.4%         37.1%
+  2017       121,643    4.0%         41.2%
+  2018       134,769    4.5%         45.6%
+  2019       152,930    5.1%         50.7%
+  2020       172,823    5.7%         56.4%
+  2021       183,964    6.1%         62.4%
+  2022       186,349    6.2%         68.6%
+  2023       211,396    7.0%         75.6%
+  2024       249,624    8.2%         83.8%
+  2025       327,054   10.8%         94.6%
+  2026       162,928    5.4%        100.0%
+
+  Retention at candidate YEAR_START thresholds:
+    Year        Kept     Dropped   Retention%
+    2010   2,584,702     443,327        85.4%
+    2012   2,466,944     561,085        81.5%
+    2014   2,338,176     689,853        77.2%
+    2015   2,250,551     777,478        74.3%
+    2016   2,036,308     991,721        67.2%
+    2018   1,781,837   1,246,192        58.8%
+    2020   1,494,138   1,533,891        49.3%
+
+
+─────────────────────────────────────────────────────────────────
+CATEGORIES — DISTRIBUTION  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Multi-category papers   : 1,446,972  (47.8%)
+  Single-category papers  : 1,581,057  (52.2%)
+
+  Top-level group distribution (by primary category):
+  Group                 Count       %
+  cs                  755,351   24.9%
+  math                576,928   19.1%
+  cond-mat            347,395   11.5%
+  astro-ph            334,493   11.0%
+  physics             209,690    6.9%
+  hep-ph              142,351    4.7%
+  quant-ph            130,273    4.3%
+  hep-th              112,693    3.7%
+  gr-qc                71,268    2.4%
+  stat                 61,633    2.0%
+  nucl-th              35,595    1.2%
+  math-ph              34,083    1.1%
+  q-bio                33,994    1.1%
+  hep-ex               25,003    0.8%
+  eess.SP              23,120    0.8%
+  eess.SY              21,410    0.7%
+  nlin                 20,722    0.7%
+  eess.IV              19,118    0.6%
+  hep-lat              19,084    0.6%
+  nucl-ex              12,396    0.4%
+  econ                 11,241    0.4%
+  eess.AS               8,553    0.3%
+  q-fin.ST              2,325    0.1%
+  q-fin.MF              1,870    0.1%
+  chao-dyn              1,770    0.1%
+  q-fin.GN              1,707    0.1%
+  q-fin.RM              1,568    0.1%
+  q-fin.CP              1,542    0.1%
+  q-fin.PM              1,420    0.0%
+  q-fin.PR              1,320    0.0%
+  q-fin.TR              1,297    0.0%
+  alg-geom              1,209    0.0%
+  q-alg                 1,177    0.0%
+  cmp-lg                  894    0.0%
+  solv-int                844    0.0%
+  dg-ga                   562    0.0%
+  patt-sol                452    0.0%
+  q-fin.EC                383    0.0%
+  funct-an                320    0.0%
+  adap-org                306    0.0%
+  mtrl-th                 165    0.0%
+  comp-gas                140    0.0%
+  chem-ph                 129    0.0%
+  supr-con                 69    0.0%
+  atom-ph                  68    0.0%
+  acc-phys                 46    0.0%
+  plasm-ph                 28    0.0%
+  ao-sci                   13    0.0%
+  bayes-an                 11    0.0%
+
+  Most frequent individual category labels (top 30):
+  Category                   Count       %
+  cs.LG                    263,561    8.7%
+  hep-ph                   195,652    6.5%
+  cs.CV                    190,403    6.3%
+  hep-th                   181,888    6.0%
+  quant-ph                 178,426    5.9%
+  cs.AI                    174,962    5.8%
+  gr-qc                    121,219    4.0%
+  cond-mat.mtrl-sci        108,494    3.6%
+  cs.CL                    107,866    3.6%
+  astro-ph                 105,380    3.5%
+  cond-mat.mes-hall        100,906    3.3%
+  math-ph                   89,496    3.0%
+  math.MP                   89,496    3.0%
+  cond-mat.str-el           82,518    2.7%
+  cond-mat.stat-mech        81,153    2.7%
+  math.CO                   77,767    2.6%
+  stat.ML                   77,121    2.5%
+  astro-ph.GA               76,911    2.5%
+  astro-ph.CO               76,634    2.5%
+  math.AP                   73,557    2.4%
+  astro-ph.SR               69,066    2.3%
+  astro-ph.HE               68,512    2.3%
+  math.PR                   65,321    2.2%
+  nucl-th                   62,314    2.1%
+  math.OC                   60,983    2.0%
+  hep-ex                    59,984    2.0%
+  math.AG                   59,224    2.0%
+  physics.optics            55,878    1.8%
+  cs.IT                     54,079    1.8%
+  math.IT                   54,079    1.8%
+
+
+─────────────────────────────────────────────────────────────────
+AUTHORS — STATISTICS  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Records with authors_parsed : 3,028,029
+  Mean authors per paper      : 4.73
+  Median                      : 3.0
+  Max                         : 3435
+  P90                         : 7
+  P99                         : 24
+
+  Author count distribution:
+  Range              Count       %
+  1                549,775   18.2%
+  2                713,866   23.6%
+  3                619,434   20.5%
+  4–5              640,658   21.2%
+  6–10             381,326   12.6%
+  11–20             85,339    2.8%
+  21–50             24,985    0.8%
+  51+               12,646    0.4%
+
+  Entry format: [last, first, suffix]
+  Name construction: f"{first} {last}"
+
+  Format samples:
+    len=4    first_entry=['Balázs', 'C.', '']
+    len=2    first_entry=['Streinu', 'Ileana', '']
+    len=1    first_entry=['Pan', 'Hongjun', '']
+    len=1    first_entry=['Callan', 'David', '']
+    len=2    first_entry=['Abu-Shammala', 'Wael', '']
+    len=2    first_entry=['Pong', 'Y. H.', '']
+    len=3    first_entry=['Corichi', 'Alejandro', '']
+    len=1    first_entry=['Swift', 'Damian C.', '']
+    len=7    first_entry=['Harvey', 'Paul', '']
+    len=1    first_entry=['Ovchinnikov', 'Sergei', '']
+
+
+─────────────────────────────────────────────────────────────────
+PAPER IDs — FORMAT  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Total IDs               : 3,028,029
+  Unique IDs              : 3,028,003
+  Duplicates              : 26
+  New format (YYMM.NNNNN) : 2,613,890  (86.3%)
+  Old format (area/...)   : 414,139  (13.7%)
+
+  Samples (first 10):
+    '0704.0001'
+    '0704.0002'
+    '0704.0003'
+    '0704.0004'
+    '0704.0005'
+    '0704.0006'
+    '0704.0007'
+    '0704.0008'
+    '0704.0009'
+    '0704.0010'
+
+
+─────────────────────────────────────────────────────────────────
+VERSIONS — REVISION HISTORY  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Mean revisions per paper : 1.60
+  Median                   : 1.0
+  Max                      : 187
+
+  Versions         Count       %
+  1            1,826,348   60.3%
+  2              810,564   26.8%
+  3              265,696    8.8%
+  4               80,920    2.7%
+  5               26,355    0.9%
+  6                9,613    0.3%
+  7                3,986    0.1%
+  8+               4,547    0.2%
+
+
+─────────────────────────────────────────────────────────────────
+JOURNAL-REF — FIELD QUALITY  (full dataset)
+─────────────────────────────────────────────────────────────────
+  Python None             : 2,084,658  (68.8%)
+  Empty string            : 0  (0.0%)
+  String 'None'           : 0  (0.0%)  ← requires explicit filter
+  Real values             : 943,371  (31.2%)
+
+  Sample values:
+    'Phys.Rev.D76:013009,2007'
+    'Illinois J. Math. 52 (2008) no.2, 681-689'
+    'Phys.Rev.D76:044016,2007'
+    'Journal of Applied Physics, vol 104, 073536 (2008)'
+    'Astrophys.J.663:1149-1173,2007'
+    'JHEP 0705:034,2007'
+    'Commun.Theor.Phys.49:993-1000,2008'
+    'Mon.Not.Roy.Astron.Soc.378:211-220,2007'
