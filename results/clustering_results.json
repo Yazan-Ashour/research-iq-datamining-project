@@ -1,0 +1,20 @@
+{
+  "method": "K-Means",
+  "parameters": {
+    "n_clusters": 5,
+    "init": "k-means++",
+    "n_init": 10,
+    "max_iter": 300
+  },
+  "runtime_seconds": 19.987982749938965,
+  "inertia_sse": 36815.671875,
+  "silhouette_score_sample": 0.033959727734327316,
+  "cluster_counts": {
+    "0": 3985,
+    "1": 10864,
+    "2": 6395,
+    "3": 7384,
+    "4": 11369
+  },
+  "selection_reason": "DBSCAN was not selected because it produced a very high noise ratio. K-Means assigns every paper to a usable topic cluster."
+}

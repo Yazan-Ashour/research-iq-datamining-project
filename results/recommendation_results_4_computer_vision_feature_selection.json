@@ -1,0 +1,1060 @@
+{
+  "search_context": {
+    "query_text": "computer vision feature selection",
+    "author_query": "Adrian Barbu",
+    "cluster_query": null,
+    "top_k": 5,
+    "query_keywords_used_for_rules": [
+      "feature_selection",
+      "vision",
+      "computer",
+      "feature",
+      "selection"
+    ]
+  },
+  "page_ranking_top_5": [
+    {
+      "paper_id": "1310.2880",
+      "title_clean": "feature selection with annealing for computer vision and big data learning",
+      "authors_list": [
+        "Adrian Barbu",
+        "Yiyuan She",
+        "Liangjing Ding",
+        "Gary Gramajo"
+      ],
+      "paper_keywords": [
+        "learning",
+        "big_data",
+        "vision",
+        "ranking"
+      ],
+      "year": 2017,
+      "cluster_id": 1,
+      "doi": "10.1109/TPAMI.2016.2544315",
+      "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence,\n  vol. 39, no 2, pp 272 - 286, 2017",
+      "page_rank_score": 0.43677038498258947,
+      "search_text_score": 0.3112839749709825,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1305.0319",
+      "title_clean": "learning mixtures of bernoulli templates by two-round em with performance guarantee",
+      "authors_list": [
+        "Adrian Barbu",
+        "Tianfu Wu",
+        "Ying Nian Wu"
+      ],
+      "paper_keywords": [
+        "bernoulli",
+        "template",
+        "round"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "10.1214/14-EJS981",
+      "journal_ref": "Electronic Journal of Statistics, Vol. 8, No. 2, pp 3004-3030,\n  2014",
+      "page_rank_score": 0.324166302823394,
+      "search_text_score": 0.12361050470565661,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1209.5260",
+      "title_clean": "towards ultrahigh dimensional feature selection for big data",
+      "authors_list": [
+        "Mingkui Tan",
+        "Ivor W. Tsang",
+        "Li Wang"
+      ],
+      "paper_keywords": [
+        "feature",
+        "feature_selection",
+        "selection",
+        "proposed_method"
+      ],
+      "year": 2019,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "JMLR, 15(1): 1371 - 1429, 2014",
+      "page_rank_score": 0.256336387905777,
+      "search_text_score": 0.42722731317629503,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1108.3605",
+      "title_clean": "hierarchical object parsing from structured noisy point clouds",
+      "authors_list": [
+        "Adrian Barbu"
+      ],
+      "paper_keywords": [
+        "object",
+        "shape",
+        "clouds",
+        "boundaries"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "10.1109/TPAMI.2012.262",
+      "journal_ref": "",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1102.1465",
+      "title_clean": "an introduction to artificial prediction markets for classification",
+      "authors_list": [
+        "Adrian Barbu",
+        "Nathan Lay"
+      ],
+      "paper_keywords": [
+        "prediction",
+        "market",
+        "markets",
+        "artificial"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "Journal of Machine Learning Research, 13, 2177-2204, 2012",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    }
+  ],
+  "normal_recommendations": {
+    "paper_to_paper_embedding_similarity": [
+      {
+        "paper_id": "1112.6209",
+        "title_clean": "building high-level features using large scale unsupervised learning",
+        "authors_list": [
+          "Quoc V. Le",
+          "Marc'Aurelio Ranzato",
+          "Rajat Monga",
+          "Matthieu Devin",
+          "Kai Chen",
+          "Greg S. Corrado",
+          "Jeff Dean",
+          "Andrew Y. Ng"
+        ],
+        "paper_keywords": [
+          "train",
+          "high_level",
+          "images",
+          "face"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5281891822814941
+      },
+      {
+        "paper_id": "1005.1860",
+        "title_clean": "feature selection using regularization in approximate linear programs for markov decision processes",
+        "authors_list": [
+          "Marek Petrik",
+          "Gavin Taylor",
+          "Ron Parr",
+          "Shlomo Zilberstein"
+        ],
+        "paper_keywords": [
+          "approximate",
+          "features",
+          "programs",
+          "regularization"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5183119773864746
+      },
+      {
+        "paper_id": "1202.0515",
+        "title_clean": "high-dimensional feature selection by feature-wise kernelized lasso",
+        "authors_list": [
+          "Makoto Yamada",
+          "Wittawat Jitkrittum",
+          "Leonid Sigal",
+          "Eric P. Xing",
+          "Masashi Sugiyama"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "output"
+        ],
+        "year": 2019,
+        "cluster_id": 1,
+        "doi": "10.1162/NECO_a_00537",
+        "journal_ref": "Neural Computation 2014",
+        "embedding_similarity_score": 0.5051368474960327
+      },
+      {
+        "paper_id": "1602.08761",
+        "title_clean": "resource constrained structured prediction",
+        "authors_list": [
+          "Tolga Bolukbasi",
+          "Kai-Wei Chang",
+          "Joseph Wang",
+          "Venkatesh Saligrama"
+        ],
+        "paper_keywords": [
+          "structured",
+          "prediction",
+          "training",
+          "adaptive"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5009027123451233
+      },
+      {
+        "paper_id": "1103.1013",
+        "title_clean": "a feature selection method for multivariate performance measures",
+        "authors_list": [
+          "Qi Mao",
+          "Ivor W. Tsang"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "svm"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TPAMI.2012.266",
+        "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence,\n  2012",
+        "embedding_similarity_score": 0.4986092746257782
+      },
+      {
+        "paper_id": "1202.6384",
+        "title_clean": "fast approximations to structured sparse coding and applications to object classification",
+        "authors_list": [
+          "Arthur Szlam",
+          "Karol Gregor",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "dictionary",
+          "sparse",
+          "fast",
+          "tree"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4925491213798523
+      },
+      {
+        "paper_id": "1504.00641",
+        "title_clean": "a probabilistic theory of deep learning",
+        "authors_list": [
+          "Ankit B. Patel",
+          "Tan Nguyen",
+          "Richard G. Baraniuk"
+        ],
+        "paper_keywords": [
+          "deep_learning",
+          "deep",
+          "learning",
+          "recognition"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.48816463351249695
+      },
+      {
+        "paper_id": "1412.3411",
+        "title_clean": "gp-select: accelerating em using adaptive subspace preselection",
+        "authors_list": [
+          "Jacquelyn A. Shelton",
+          "Jan Gasthaus",
+          "Zhenwen Dai",
+          "Joerg Luecke",
+          "Arthur Gretton"
+        ],
+        "paper_keywords": [
+          "latent",
+          "selection",
+          "latent_variables"
+        ],
+        "year": 2021,
+        "cluster_id": 1,
+        "doi": "10.1162/neco_a_00982",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.487849622964859
+      },
+      {
+        "paper_id": "1509.05113",
+        "title_clean": "revealed preference at scale: learning personalized preferences from assortment choices",
+        "authors_list": [
+          "Nathan Kallus",
+          "Madeleine Udell"
+        ],
+        "paper_keywords": [
+          "preferences",
+          "choice",
+          "planning",
+          "learning"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4864351153373718
+      },
+      {
+        "paper_id": "1504.00064",
+        "title_clean": "crowdsourcing feature discovery via adaptively chosen comparisons",
+        "authors_list": [
+          "James Y. Zou",
+          "Kamalika Chaudhuri",
+          "Adam Tauman Kalai"
+        ],
+        "paper_keywords": [
+          "features",
+          "adaptively",
+          "labels",
+          "ask"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4845339357852936
+      }
+    ],
+    "same_cluster_topic_papers": [
+      {
+        "paper_id": "1112.6209",
+        "title_clean": "building high-level features using large scale unsupervised learning",
+        "authors_list": [
+          "Quoc V. Le",
+          "Marc'Aurelio Ranzato",
+          "Rajat Monga",
+          "Matthieu Devin",
+          "Kai Chen",
+          "Greg S. Corrado",
+          "Jeff Dean",
+          "Andrew Y. Ng"
+        ],
+        "paper_keywords": [
+          "train",
+          "high_level",
+          "images",
+          "face"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5281891822814941
+      },
+      {
+        "paper_id": "1005.1860",
+        "title_clean": "feature selection using regularization in approximate linear programs for markov decision processes",
+        "authors_list": [
+          "Marek Petrik",
+          "Gavin Taylor",
+          "Ron Parr",
+          "Shlomo Zilberstein"
+        ],
+        "paper_keywords": [
+          "approximate",
+          "features",
+          "programs",
+          "regularization"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5183119773864746
+      },
+      {
+        "paper_id": "1202.0515",
+        "title_clean": "high-dimensional feature selection by feature-wise kernelized lasso",
+        "authors_list": [
+          "Makoto Yamada",
+          "Wittawat Jitkrittum",
+          "Leonid Sigal",
+          "Eric P. Xing",
+          "Masashi Sugiyama"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "output"
+        ],
+        "year": 2019,
+        "cluster_id": 1,
+        "doi": "10.1162/NECO_a_00537",
+        "journal_ref": "Neural Computation 2014",
+        "same_cluster_similarity": 0.5051368474960327
+      },
+      {
+        "paper_id": "1602.08761",
+        "title_clean": "resource constrained structured prediction",
+        "authors_list": [
+          "Tolga Bolukbasi",
+          "Kai-Wei Chang",
+          "Joseph Wang",
+          "Venkatesh Saligrama"
+        ],
+        "paper_keywords": [
+          "structured",
+          "prediction",
+          "training",
+          "adaptive"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5009027123451233
+      },
+      {
+        "paper_id": "1103.1013",
+        "title_clean": "a feature selection method for multivariate performance measures",
+        "authors_list": [
+          "Qi Mao",
+          "Ivor W. Tsang"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "svm"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TPAMI.2012.266",
+        "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence,\n  2012",
+        "same_cluster_similarity": 0.4986092746257782
+      },
+      {
+        "paper_id": "1202.6384",
+        "title_clean": "fast approximations to structured sparse coding and applications to object classification",
+        "authors_list": [
+          "Arthur Szlam",
+          "Karol Gregor",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "dictionary",
+          "sparse",
+          "fast",
+          "tree"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4925491213798523
+      },
+      {
+        "paper_id": "1504.00641",
+        "title_clean": "a probabilistic theory of deep learning",
+        "authors_list": [
+          "Ankit B. Patel",
+          "Tan Nguyen",
+          "Richard G. Baraniuk"
+        ],
+        "paper_keywords": [
+          "deep_learning",
+          "deep",
+          "learning",
+          "recognition"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.48816463351249695
+      },
+      {
+        "paper_id": "1412.3411",
+        "title_clean": "gp-select: accelerating em using adaptive subspace preselection",
+        "authors_list": [
+          "Jacquelyn A. Shelton",
+          "Jan Gasthaus",
+          "Zhenwen Dai",
+          "Joerg Luecke",
+          "Arthur Gretton"
+        ],
+        "paper_keywords": [
+          "latent",
+          "selection",
+          "latent_variables"
+        ],
+        "year": 2021,
+        "cluster_id": 1,
+        "doi": "10.1162/neco_a_00982",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.487849622964859
+      },
+      {
+        "paper_id": "1509.05113",
+        "title_clean": "revealed preference at scale: learning personalized preferences from assortment choices",
+        "authors_list": [
+          "Nathan Kallus",
+          "Madeleine Udell"
+        ],
+        "paper_keywords": [
+          "preferences",
+          "choice",
+          "planning",
+          "learning"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4864351153373718
+      },
+      {
+        "paper_id": "1504.00064",
+        "title_clean": "crowdsourcing feature discovery via adaptively chosen comparisons",
+        "authors_list": [
+          "James Y. Zou",
+          "Kamalika Chaudhuri",
+          "Adam Tauman Kalai"
+        ],
+        "paper_keywords": [
+          "features",
+          "adaptively",
+          "labels",
+          "ask"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4845339357852936
+      }
+    ],
+    "same_author_papers": [
+      {
+        "paper_id": "1101.0831",
+        "title_clean": "nonparametric additive model-assisted estimation for survey data",
+        "authors_list": [
+          "Li Wang",
+          "Suojin Wang"
+        ],
+        "paper_keywords": [
+          "estimators",
+          "survey",
+          "auxiliary",
+          "assisted"
+        ],
+        "year": 2019,
+        "cluster_id": 1,
+        "doi": "10.1016/j.jmva.2011.03.006",
+        "journal_ref": "Journal of Multivariate Analysis, 2011",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1403.6212",
+        "title_clean": "selective factor extraction in high dimensions",
+        "authors_list": [
+          "Yiyuan She"
+        ],
+        "paper_keywords": [
+          "rank",
+          "selection",
+          "selective",
+          "extraction"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1512.03883",
+        "title_clean": "sparse generalized principal component analysis for large-scale applications beyond gaussianity",
+        "authors_list": [
+          "Qiaoya Zhang",
+          "Yiyuan She"
+        ],
+        "paper_keywords": [
+          "pca",
+          "scalability",
+          "sparse",
+          "large_scale"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1602.03264",
+        "title_clean": "a theory of generative convnet",
+        "authors_list": [
+          "Jianwen Xie",
+          "Yang Lu",
+          "Song-Chun Zhu",
+          "Ying Nian Wu"
+        ],
+        "paper_keywords": [
+          "generative",
+          "encoder",
+          "auto",
+          "basis_functions"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1410.1173",
+        "title_clean": "robust orthogonal complement principal component analysis",
+        "authors_list": [
+          "Yiyuan She",
+          "Shijie Li",
+          "Dapeng Wu"
+        ],
+        "paper_keywords": [
+          "pca",
+          "outliers",
+          "principal",
+          "principal_component"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1103.0890",
+        "title_clean": "efficient multi-template learning for structured prediction",
+        "authors_list": [
+          "Qi Mao",
+          "Ivor W. Tsang"
+        ],
+        "paper_keywords": [
+          "structured",
+          "template",
+          "prediction",
+          "paradigm"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Efficient Multi-Template Learning for Structured Prediction. IEEE\n  Transactions on Neural Networks and Learning Systems, 24(2): 248 - 261, Feb\n  2013",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1102.2808",
+        "title_clean": "transductive ordinal regression",
+        "authors_list": [
+          "Chun-Wei Seah",
+          "Ivor W. Tsang",
+          "Yew-Soon Ong"
+        ],
+        "paper_keywords": [
+          "ordinal",
+          "regression",
+          "unlabeled",
+          "commonly"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TNNLS.2012.2198240",
+        "journal_ref": "IEEE Transactions on Neural Networks and Learning Systems,\n  23(7):1074 - 1086, 2012",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1012.0930",
+        "title_clean": "efficient optimization of performance measures by classifier adaptation",
+        "authors_list": [
+          "Nan Li",
+          "Ivor W. Tsang",
+          "Zhi-Hua Zhou"
+        ],
+        "paper_keywords": [
+          "classifier",
+          "classifiers",
+          "learning",
+          "performance"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TPAMI.2012.172",
+        "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence,\n  2013, 35(6): 1370-1382",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1103.1013",
+        "title_clean": "a feature selection method for multivariate performance measures",
+        "authors_list": [
+          "Qi Mao",
+          "Ivor W. Tsang"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "svm"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TPAMI.2012.266",
+        "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence,\n  2012",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1410.1174",
+        "title_clean": "learning topology and dynamics of large recurrent neural networks",
+        "authors_list": [
+          "Yiyuan She",
+          "Yuejia He",
+          "Dapeng Wu"
+        ],
+        "paper_keywords": [
+          "recurrent",
+          "network",
+          "topology",
+          "learning"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TSP.2014.2358956",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      }
+    ]
+  },
+  "association_rule_recommendations": {
+    "recommended_papers": [
+      {
+        "paper_id": "1112.6209",
+        "title_clean": "building high-level features using large scale unsupervised learning",
+        "authors_list": [
+          "Quoc V. Le",
+          "Marc'Aurelio Ranzato",
+          "Rajat Monga",
+          "Matthieu Devin",
+          "Kai Chen",
+          "Greg S. Corrado",
+          "Jeff Dean",
+          "Andrew Y. Ng"
+        ],
+        "paper_keywords": [
+          "train",
+          "high_level",
+          "images",
+          "face"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5281891822814941,
+        "association_recommendation_score": 0.33204729557037355
+      },
+      {
+        "paper_id": "1005.1860",
+        "title_clean": "feature selection using regularization in approximate linear programs for markov decision processes",
+        "authors_list": [
+          "Marek Petrik",
+          "Gavin Taylor",
+          "Ron Parr",
+          "Shlomo Zilberstein"
+        ],
+        "paper_keywords": [
+          "approximate",
+          "features",
+          "programs",
+          "regularization"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5183119773864746,
+        "association_recommendation_score": 0.32957799434661866
+      },
+      {
+        "paper_id": "1202.0515",
+        "title_clean": "high-dimensional feature selection by feature-wise kernelized lasso",
+        "authors_list": [
+          "Makoto Yamada",
+          "Wittawat Jitkrittum",
+          "Leonid Sigal",
+          "Eric P. Xing",
+          "Masashi Sugiyama"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "output"
+        ],
+        "year": 2019,
+        "cluster_id": 1,
+        "doi": "10.1162/NECO_a_00537",
+        "journal_ref": "Neural Computation 2014",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5051368474960327,
+        "association_recommendation_score": 0.3262842118740082
+      },
+      {
+        "paper_id": "1602.08761",
+        "title_clean": "resource constrained structured prediction",
+        "authors_list": [
+          "Tolga Bolukbasi",
+          "Kai-Wei Chang",
+          "Joseph Wang",
+          "Venkatesh Saligrama"
+        ],
+        "paper_keywords": [
+          "structured",
+          "prediction",
+          "training",
+          "adaptive"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5009027123451233,
+        "association_recommendation_score": 0.32522567808628083
+      },
+      {
+        "paper_id": "1103.1013",
+        "title_clean": "a feature selection method for multivariate performance measures",
+        "authors_list": [
+          "Qi Mao",
+          "Ivor W. Tsang"
+        ],
+        "paper_keywords": [
+          "feature_selection",
+          "feature",
+          "selection",
+          "svm"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TPAMI.2012.266",
+        "journal_ref": "IEEE Transactions on Pattern Analysis and Machine Intelligence,\n  2012",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4986092746257782,
+        "association_recommendation_score": 0.32465231865644456
+      },
+      {
+        "paper_id": "1202.6384",
+        "title_clean": "fast approximations to structured sparse coding and applications to object classification",
+        "authors_list": [
+          "Arthur Szlam",
+          "Karol Gregor",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "dictionary",
+          "sparse",
+          "fast",
+          "tree"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4925491213798523,
+        "association_recommendation_score": 0.3231372803449631
+      },
+      {
+        "paper_id": "1504.00641",
+        "title_clean": "a probabilistic theory of deep learning",
+        "authors_list": [
+          "Ankit B. Patel",
+          "Tan Nguyen",
+          "Richard G. Baraniuk"
+        ],
+        "paper_keywords": [
+          "deep_learning",
+          "deep",
+          "learning",
+          "recognition"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.48816463351249695,
+        "association_recommendation_score": 0.32204115837812425
+      },
+      {
+        "paper_id": "1412.3411",
+        "title_clean": "gp-select: accelerating em using adaptive subspace preselection",
+        "authors_list": [
+          "Jacquelyn A. Shelton",
+          "Jan Gasthaus",
+          "Zhenwen Dai",
+          "Joerg Luecke",
+          "Arthur Gretton"
+        ],
+        "paper_keywords": [
+          "latent",
+          "selection",
+          "latent_variables"
+        ],
+        "year": 2021,
+        "cluster_id": 1,
+        "doi": "10.1162/neco_a_00982",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.487849622964859,
+        "association_recommendation_score": 0.32196240574121476
+      },
+      {
+        "paper_id": "1509.05113",
+        "title_clean": "revealed preference at scale: learning personalized preferences from assortment choices",
+        "authors_list": [
+          "Nathan Kallus",
+          "Madeleine Udell"
+        ],
+        "paper_keywords": [
+          "preferences",
+          "choice",
+          "planning",
+          "learning"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4864351153373718,
+        "association_recommendation_score": 0.32160877883434297
+      },
+      {
+        "paper_id": "1504.00064",
+        "title_clean": "crowdsourcing feature discovery via adaptively chosen comparisons",
+        "authors_list": [
+          "James Y. Zou",
+          "Kamalika Chaudhuri",
+          "Adam Tauman Kalai"
+        ],
+        "paper_keywords": [
+          "features",
+          "adaptively",
+          "labels",
+          "ask"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4845339357852936,
+        "association_recommendation_score": 0.3211334839463234
+      }
+    ],
+    "recommended_authors": [],
+    "recommended_clusters": [
+      2,
+      1
+    ],
+    "recommended_keywords": [],
+    "matched_rules": [
+      {
+        "antecedents": [
+          "keyword:clouds"
+        ],
+        "consequents": [
+          "cluster:2"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0011750881316098707,
+        "confidence": 0.8392857142857143,
+        "lift": 5.249243270412152,
+        "context_rule_score": 4.410791873434285
+      },
+      {
+        "antecedents": [
+          "keyword:prediction"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0013000975073130484,
+        "confidence": 1.0,
+        "lift": 3.681608983799705,
+        "context_rule_score": 3.686395434462444
+      },
+      {
+        "antecedents": [
+          "keyword:learning"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.005375403155236643,
+        "confidence": 0.9684684684684686,
+        "lift": 3.5655222140402554,
+        "context_rule_score": 3.471657620184369
+      },
+      {
+        "antecedents": [
+          "keyword:selection"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0028252118908918167,
+        "confidence": 0.9495798319327731,
+        "lift": 3.4959816400787114,
+        "context_rule_score": 3.329092552727579
+      }
+    ]
+  }
+}

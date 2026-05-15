@@ -1,0 +1,59 @@
+{
+  "outputs_folder": "C:\\Users\\Mohammed Amad\\PycharmProjects\\JupyterProject\\results",
+  "user_history_used": false,
+  "search_cases_supported": [
+    "topic only",
+    "author only",
+    "paper title only",
+    "topic + author",
+    "topic + cluster",
+    "paper title + author",
+    "paper title + author + topic"
+  ],
+  "clustering": {
+    "method": "K-Means",
+    "parameters": {
+      "n_clusters": 5,
+      "init": "k-means++",
+      "n_init": 10,
+      "max_iter": 300
+    },
+    "runtime_seconds": 19.987982749938965,
+    "inertia_sse": 36815.671875,
+    "silhouette_score_sample": 0.033959727734327316,
+    "cluster_counts": {
+      "0": 3985,
+      "1": 10864,
+      "2": 6395,
+      "3": 7384,
+      "4": 11369
+    },
+    "selection_reason": "DBSCAN was not selected because it produced a very high noise ratio. K-Means assigns every paper to a usable topic cluster."
+  },
+  "dimensionality_reduction": {
+    "compression": {
+      "method": "PCA_SVD",
+      "n_components": 50,
+      "cumulative_explained_variance": 0.4440276622772217,
+      "runtime_seconds": 0.7791972160339355
+    },
+    "visualization": {
+      "method": "UMAP",
+      "parameters": {
+        "n_components": 2,
+        "n_neighbors": 15,
+        "min_dist": 0.0,
+        "metric": "euclidean",
+        "low_memory": true
+      },
+      "runtime_seconds": 59.54972958564758
+    }
+  },
+  "association_rules": {
+    "min_support": 0.001,
+    "min_confidence": 0.05,
+    "max_itemset_length": 2,
+    "rule_count": 659,
+    "quality_filter": "Association recommendation does not accept broad-cluster-only candidates; candidate must match keyword/author or have enough embedding similarity."
+  }
+}

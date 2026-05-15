@@ -1,0 +1,19 @@
+{
+  "compression": {
+    "method": "PCA_SVD",
+    "n_components": 50,
+    "cumulative_explained_variance": 0.4440276622772217,
+    "runtime_seconds": 0.7791972160339355
+  },
+  "visualization": {
+    "method": "UMAP",
+    "parameters": {
+      "n_components": 2,
+      "n_neighbors": 15,
+      "min_dist": 0.0,
+      "metric": "euclidean",
+      "low_memory": true
+    },
+    "runtime_seconds": 59.54972958564758
+  }
+}
