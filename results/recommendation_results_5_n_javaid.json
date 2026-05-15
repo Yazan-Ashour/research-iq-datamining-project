@@ -1,0 +1,1149 @@
+{
+  "search_context": {
+    "query_text": null,
+    "author_query": "N. Javaid",
+    "cluster_query": null,
+    "top_k": 5,
+    "query_keywords_used_for_rules": []
+  },
+  "page_ranking_top_5": [
+    {
+      "paper_id": "1208.2335",
+      "title_clean": "hsep: heterogeneity-aware hierarchical stable election protocol for wsns",
+      "authors_list": [
+        "A. A. Khan",
+        "N. Javaid",
+        "U. Qasim",
+        "Z. Lu",
+        "Z. A. Khan"
+      ],
+      "paper_keywords": [
+        "election",
+        "heterogeneity",
+        "protocol",
+        "nodes"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/BWCCA.2012.70",
+      "journal_ref": "",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1212.4336",
+      "title_clean": "combined human, antenna orientation in elevation direction and ground effect on rssi in wireless sensor networks",
+      "authors_list": [
+        "Syed Hassan Ahmed",
+        "Safdar H. Bouk",
+        "N. Javaid",
+        "Iwao Sasase"
+      ],
+      "paper_keywords": [
+        "antenna",
+        "human",
+        "effect",
+        "ground"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/FIT.2012.17",
+      "journal_ref": "",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1203.2730",
+      "title_clean": "on using multiple quality link metrics with destination sequenced distance vector protocol for wireless multi-hop networks",
+      "authors_list": [
+        "N. Javaid",
+        "A. Bibi",
+        "Z. A. Khan",
+        "K. Djouani"
+      ],
+      "paper_keywords": [
+        "metrics",
+        "implemented",
+        "link"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/CCECE.2012.6334852",
+      "journal_ref": "25th IEEE CCECE 2012, Montreal, Canada",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1208.2399",
+      "title_clean": "optimal number of cluster head selection for efficient distribution of sources in wsns",
+      "authors_list": [
+        "M. S. Fareed",
+        "N. Javaid",
+        "M. Akbar",
+        "S. Rehman",
+        "U. Qasim",
+        "Z. A. Khan"
+      ],
+      "paper_keywords": [
+        "sensor",
+        "cluster",
+        "sensors",
+        "protocols"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/BWCCA.2012.110",
+      "journal_ref": "",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1207.1777",
+      "title_clean": "dsdv, dymo, olsr: link duration and path stability",
+      "authors_list": [
+        "S. Kumar",
+        "N. Javaid",
+        "Z. Yousuf",
+        "H. Kumar",
+        "Z. A. Khan",
+        "A. Bibi"
+      ],
+      "paper_keywords": [
+        "routing",
+        "link",
+        "duration",
+        "protocols"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/TrustCom.2012.133",
+      "journal_ref": "Multicom2012 held in conjunction with the 11th IEEE International\n  Conference on Ubiquitous Computing and Communications (IUCC-2012) (25 - 27\n  June 2012, Liverpool, UK)",
+      "page_rank_score": 0.25,
+      "search_text_score": 0.0,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    }
+  ],
+  "normal_recommendations": {
+    "paper_to_paper_embedding_similarity": [
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5906034111976624
+      },
+      {
+        "paper_id": "1208.2397",
+        "title_clean": "performance analysis of hierarchical routing protocols in wireless sensor networks",
+        "authors_list": [
+          "K. Latif",
+          "M. Jaffar",
+          "N. Javaid",
+          "M. N. Saqib",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "sensor",
+          "clustering",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.108",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5795902013778687
+      },
+      {
+        "paper_id": "1212.4092",
+        "title_clean": "tsep: threshold-sensitive stable election protocol for wsns",
+        "authors_list": [
+          "A. Kashaf",
+          "N. Javaid",
+          "Z. A. Khan",
+          "I. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "election",
+          "reactive",
+          "khan"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/FIT.2012.37",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.573298990726471
+      },
+      {
+        "paper_id": "1101.0250",
+        "title_clean": "an adaptive and multi-service routing protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "routing",
+          "subsystem",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/APCC.2010.5679779",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5573200583457947
+      },
+      {
+        "paper_id": "1212.4106",
+        "title_clean": "energy efficient sleep awake aware intelligent sensor network routing protocol",
+        "authors_list": [
+          "T. Shah",
+          "N. Javaid",
+          "T. N. Qureshi"
+        ],
+        "paper_keywords": [
+          "network",
+          "routing",
+          "sensor",
+          "intelligent"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/INMIC.2012.6511504",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5345091819763184
+      },
+      {
+        "paper_id": "1207.3595",
+        "title_clean": "ceec: centralized energy efficient clustering a new routing protocol for wsns",
+        "authors_list": [
+          "M. Aslam",
+          "T. Shah",
+          "N. Javaid",
+          "A. Rahim",
+          "Z. Rahman",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "energy",
+          "protocols",
+          "network"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/SECON.2012.6275763",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5272407531738281
+      },
+      {
+        "paper_id": "1108.3706",
+        "title_clean": "identifying design requirements for wireless routing link metrics",
+        "authors_list": [
+          "Nadeem Javaid",
+          "Muti Ullah",
+          "Karim Djouani"
+        ],
+        "paper_keywords": [
+          "link",
+          "routing",
+          "metric",
+          "requirements"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/GLOCOM.2011.6134360",
+        "journal_ref": "IEEE Globecome USA 2011",
+        "embedding_similarity_score": 0.524833083152771
+      },
+      {
+        "paper_id": "1108.3708",
+        "title_clean": "evaluating impact of mobility on wireless routing protocols",
+        "authors_list": [
+          "N. Javaid",
+          "M. Yousaf",
+          "A. Ahmad",
+          "A. Naveed",
+          "K. Djouani"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "routing",
+          "end",
+          "end_end"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ISWTA.2011.6089558",
+        "journal_ref": "IEEE Symposium on Wireless Telecommunications Applications (ISWTA)\n  2011",
+        "embedding_similarity_score": 0.5239713191986084
+      },
+      {
+        "paper_id": "1201.1018",
+        "title_clean": "un protocole de routage a basse consommation d energie selon l approche de clustering pour les r eseaux de capteurs sans fils",
+        "authors_list": [
+          "Manel Khelifi",
+          "Assia Djabelkhir"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "clustering",
+          "consumption",
+          "routing"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5197198987007141
+      },
+      {
+        "paper_id": "1207.1768",
+        "title_clean": "analysis and modeling experiment performance parameters of routing protocols in manets and vanets",
+        "authors_list": [
+          "S. Sagar",
+          "N. Javaid",
+          "Z. A. Khan",
+          "J. Saqib",
+          "A. Bibi",
+          "S. H. Bouk"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "hoc_networks",
+          "performance"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/TrustCom.2012.89",
+        "journal_ref": "Multicom2012 held in conjunction with 11th IEEE International\n  Conference on Ubiquitous Computing and Communications (IUCC-2012) (25 - 27\n  June 2012, Liverpool, UK)",
+        "embedding_similarity_score": 0.510148286819458
+      }
+    ],
+    "same_cluster_topic_papers": [
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5906034111976624
+      },
+      {
+        "paper_id": "1208.2397",
+        "title_clean": "performance analysis of hierarchical routing protocols in wireless sensor networks",
+        "authors_list": [
+          "K. Latif",
+          "M. Jaffar",
+          "N. Javaid",
+          "M. N. Saqib",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "sensor",
+          "clustering",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.108",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5795902013778687
+      },
+      {
+        "paper_id": "1212.4092",
+        "title_clean": "tsep: threshold-sensitive stable election protocol for wsns",
+        "authors_list": [
+          "A. Kashaf",
+          "N. Javaid",
+          "Z. A. Khan",
+          "I. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "election",
+          "reactive",
+          "khan"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/FIT.2012.37",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.573298990726471
+      },
+      {
+        "paper_id": "1101.0250",
+        "title_clean": "an adaptive and multi-service routing protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "routing",
+          "subsystem",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/APCC.2010.5679779",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5573200583457947
+      },
+      {
+        "paper_id": "1212.4106",
+        "title_clean": "energy efficient sleep awake aware intelligent sensor network routing protocol",
+        "authors_list": [
+          "T. Shah",
+          "N. Javaid",
+          "T. N. Qureshi"
+        ],
+        "paper_keywords": [
+          "network",
+          "routing",
+          "sensor",
+          "intelligent"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/INMIC.2012.6511504",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5345091819763184
+      },
+      {
+        "paper_id": "1207.3595",
+        "title_clean": "ceec: centralized energy efficient clustering a new routing protocol for wsns",
+        "authors_list": [
+          "M. Aslam",
+          "T. Shah",
+          "N. Javaid",
+          "A. Rahim",
+          "Z. Rahman",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "energy",
+          "protocols",
+          "network"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/SECON.2012.6275763",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5272407531738281
+      },
+      {
+        "paper_id": "1108.3706",
+        "title_clean": "identifying design requirements for wireless routing link metrics",
+        "authors_list": [
+          "Nadeem Javaid",
+          "Muti Ullah",
+          "Karim Djouani"
+        ],
+        "paper_keywords": [
+          "link",
+          "routing",
+          "metric",
+          "requirements"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/GLOCOM.2011.6134360",
+        "journal_ref": "IEEE Globecome USA 2011",
+        "same_cluster_similarity": 0.524833083152771
+      },
+      {
+        "paper_id": "1108.3708",
+        "title_clean": "evaluating impact of mobility on wireless routing protocols",
+        "authors_list": [
+          "N. Javaid",
+          "M. Yousaf",
+          "A. Ahmad",
+          "A. Naveed",
+          "K. Djouani"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "routing",
+          "end",
+          "end_end"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ISWTA.2011.6089558",
+        "journal_ref": "IEEE Symposium on Wireless Telecommunications Applications (ISWTA)\n  2011",
+        "same_cluster_similarity": 0.5239713191986084
+      },
+      {
+        "paper_id": "1201.1018",
+        "title_clean": "un protocole de routage a basse consommation d energie selon l approche de clustering pour les r eseaux de capteurs sans fils",
+        "authors_list": [
+          "Manel Khelifi",
+          "Assia Djabelkhir"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "clustering",
+          "consumption",
+          "routing"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5197198987007141
+      },
+      {
+        "paper_id": "1207.1768",
+        "title_clean": "analysis and modeling experiment performance parameters of routing protocols in manets and vanets",
+        "authors_list": [
+          "S. Sagar",
+          "N. Javaid",
+          "Z. A. Khan",
+          "J. Saqib",
+          "A. Bibi",
+          "S. H. Bouk"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "hoc_networks",
+          "performance"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/TrustCom.2012.89",
+        "journal_ref": "Multicom2012 held in conjunction with 11th IEEE International\n  Conference on Ubiquitous Computing and Communications (IUCC-2012) (25 - 27\n  June 2012, Liverpool, UK)",
+        "same_cluster_similarity": 0.510148286819458
+      }
+    ],
+    "same_author_papers": [
+      {
+        "paper_id": "1212.4237",
+        "title_clean": "on link availability probability of routing protocols for urban scenario in vanets",
+        "authors_list": [
+          "S. Kumar",
+          "N. Javaid",
+          "Z. Yousuf",
+          "H. Kumar",
+          "Z. A. Khan",
+          "U. Qasim"
+        ],
+        "paper_keywords": [
+          "routing",
+          "mod",
+          "availability",
+          "link"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ICOS.2012.6417632",
+        "journal_ref": "",
+        "same_author_score": 6.0
+      },
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "same_author_score": 5.0
+      },
+      {
+        "paper_id": "1208.2331",
+        "title_clean": "monitoring and controlling power using zigbee communications",
+        "authors_list": [
+          "N. Javaid",
+          "A. Sharif",
+          "A. Mahmood",
+          "S. Ahmed",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "power",
+          "communication",
+          "controlling",
+          "monitoring"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.107",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2409",
+        "title_clean": "transmission delay of multi-hop heterogeneous networks for medical applications",
+        "authors_list": [
+          "M. M. Yaqoob",
+          "I. Israr",
+          "N. Javaid",
+          "M. A. Khan",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "health",
+          "sent",
+          "care",
+          "data"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.76",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2351",
+        "title_clean": "a comprehensive survey of mac protocols for wireless body area networks",
+        "authors_list": [
+          "A. Rahim",
+          "N. Javaid",
+          "M. Aslam",
+          "Z. Rahman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "body",
+          "comprehensive",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.77",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2376",
+        "title_clean": "analytical survey of wearable sensors",
+        "authors_list": [
+          "A. Rehman",
+          "M. Mustafa",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "sensors",
+          "monitoring",
+          "blood",
+          "survey"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.73",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2406",
+        "title_clean": "simulation analysis of medium access techniques",
+        "authors_list": [
+          "I. Israr",
+          "M. M. Yaqoob",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "access",
+          "multiple_access",
+          "comparison",
+          "delay"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.105",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2397",
+        "title_clean": "performance analysis of hierarchical routing protocols in wireless sensor networks",
+        "authors_list": [
+          "K. Latif",
+          "M. Jaffar",
+          "N. Javaid",
+          "M. N. Saqib",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "sensor",
+          "clustering",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.108",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1207.1768",
+        "title_clean": "analysis and modeling experiment performance parameters of routing protocols in manets and vanets",
+        "authors_list": [
+          "S. Sagar",
+          "N. Javaid",
+          "Z. A. Khan",
+          "J. Saqib",
+          "A. Bibi",
+          "S. H. Bouk"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "hoc_networks",
+          "performance"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/TrustCom.2012.89",
+        "journal_ref": "Multicom2012 held in conjunction with 11th IEEE International\n  Conference on Ubiquitous Computing and Communications (IUCC-2012) (25 - 27\n  June 2012, Liverpool, UK)",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2378",
+        "title_clean": "routing load of route calculation and route maintenance in wireless proactive routing protocols",
+        "authors_list": [
+          "D. Mahmood",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "route",
+          "framework"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.34",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      }
+    ]
+  },
+  "association_rule_recommendations": {
+    "recommended_papers": [
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5906034111976624,
+        "association_recommendation_score": 0.3476508527994156
+      },
+      {
+        "paper_id": "1208.2397",
+        "title_clean": "performance analysis of hierarchical routing protocols in wireless sensor networks",
+        "authors_list": [
+          "K. Latif",
+          "M. Jaffar",
+          "N. Javaid",
+          "M. N. Saqib",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "sensor",
+          "clustering",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.108",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5795902013778687,
+        "association_recommendation_score": 0.3448975503444672
+      },
+      {
+        "paper_id": "1212.4092",
+        "title_clean": "tsep: threshold-sensitive stable election protocol for wsns",
+        "authors_list": [
+          "A. Kashaf",
+          "N. Javaid",
+          "Z. A. Khan",
+          "I. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "election",
+          "reactive",
+          "khan"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/FIT.2012.37",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.573298990726471,
+        "association_recommendation_score": 0.34332474768161775
+      },
+      {
+        "paper_id": "1101.0250",
+        "title_clean": "an adaptive and multi-service routing protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "routing",
+          "subsystem",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/APCC.2010.5679779",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5573200583457947,
+        "association_recommendation_score": 0.3393300145864487
+      },
+      {
+        "paper_id": "1212.4106",
+        "title_clean": "energy efficient sleep awake aware intelligent sensor network routing protocol",
+        "authors_list": [
+          "T. Shah",
+          "N. Javaid",
+          "T. N. Qureshi"
+        ],
+        "paper_keywords": [
+          "network",
+          "routing",
+          "sensor",
+          "intelligent"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/INMIC.2012.6511504",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5345091819763184,
+        "association_recommendation_score": 0.3336272954940796
+      },
+      {
+        "paper_id": "1207.3595",
+        "title_clean": "ceec: centralized energy efficient clustering a new routing protocol for wsns",
+        "authors_list": [
+          "M. Aslam",
+          "T. Shah",
+          "N. Javaid",
+          "A. Rahim",
+          "Z. Rahman",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "energy",
+          "protocols",
+          "network"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/SECON.2012.6275763",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5272407531738281,
+        "association_recommendation_score": 0.33181018829345704
+      },
+      {
+        "paper_id": "1108.3706",
+        "title_clean": "identifying design requirements for wireless routing link metrics",
+        "authors_list": [
+          "Nadeem Javaid",
+          "Muti Ullah",
+          "Karim Djouani"
+        ],
+        "paper_keywords": [
+          "link",
+          "routing",
+          "metric",
+          "requirements"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/GLOCOM.2011.6134360",
+        "journal_ref": "IEEE Globecome USA 2011",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.524833083152771,
+        "association_recommendation_score": 0.33120827078819276
+      },
+      {
+        "paper_id": "1108.3708",
+        "title_clean": "evaluating impact of mobility on wireless routing protocols",
+        "authors_list": [
+          "N. Javaid",
+          "M. Yousaf",
+          "A. Ahmad",
+          "A. Naveed",
+          "K. Djouani"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "routing",
+          "end",
+          "end_end"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ISWTA.2011.6089558",
+        "journal_ref": "IEEE Symposium on Wireless Telecommunications Applications (ISWTA)\n  2011",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5239713191986084,
+        "association_recommendation_score": 0.3309928297996521
+      },
+      {
+        "paper_id": "1201.1018",
+        "title_clean": "un protocole de routage a basse consommation d energie selon l approche de clustering pour les r eseaux de capteurs sans fils",
+        "authors_list": [
+          "Manel Khelifi",
+          "Assia Djabelkhir"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "clustering",
+          "consumption",
+          "routing"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5197198987007141,
+        "association_recommendation_score": 0.32992997467517854
+      },
+      {
+        "paper_id": "1207.1768",
+        "title_clean": "analysis and modeling experiment performance parameters of routing protocols in manets and vanets",
+        "authors_list": [
+          "S. Sagar",
+          "N. Javaid",
+          "Z. A. Khan",
+          "J. Saqib",
+          "A. Bibi",
+          "S. H. Bouk"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "hoc_networks",
+          "performance"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/TrustCom.2012.89",
+        "journal_ref": "Multicom2012 held in conjunction with 11th IEEE International\n  Conference on Ubiquitous Computing and Communications (IUCC-2012) (25 - 27\n  June 2012, Liverpool, UK)",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.510148286819458,
+        "association_recommendation_score": 0.3275370717048645
+      }
+    ],
+    "recommended_authors": [],
+    "recommended_clusters": [
+      1,
+      2,
+      4
+    ],
+    "recommended_keywords": [],
+    "matched_rules": [
+      {
+        "antecedents": [
+          "keyword:routing"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0012500937570317774,
+        "confidence": 0.9803921568627452,
+        "lift": 3.6094205723526525,
+        "context_rule_score": 3.5430712612516198
+      },
+      {
+        "antecedents": [
+          "keyword:nodes"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.002225166887516564,
+        "confidence": 0.898989898989899,
+        "lift": 3.309729288466402,
+        "context_rule_score": 2.9820339896487975
+      },
+      {
+        "antecedents": [
+          "keyword:sensor"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.001775133134985124,
+        "confidence": 0.8255813953488372,
+        "lift": 3.039467881974175,
+        "context_rule_score": 2.513782526637413
+      },
+      {
+        "antecedents": [
+          "keyword:cluster"
+        ],
+        "consequents": [
+          "cluster:2"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.003600270020251519,
+        "confidence": 0.6180257510729613,
+        "lift": 3.86539108141755,
+        "context_rule_score": 2.3975119517528394
+      },
+      {
+        "antecedents": [
+          "keyword:protocols"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0011500862564692352,
+        "confidence": 0.7301587301587301,
+        "lift": 2.6881589405521655,
+        "context_rule_score": 1.965040087927387
+      },
+      {
+        "antecedents": [
+          "keyword:ground"
+        ],
+        "consequents": [
+          "cluster:4"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0010750806310473285,
+        "confidence": 0.7049180327868851,
+        "lift": 2.4799548383654715,
+        "context_rule_score": 1.7500443042697869
+      },
+      {
+        "antecedents": [
+          "keyword:protocol"
+        ],
+        "consequents": [
+          "cluster:4"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.001275095632172413,
+        "confidence": 0.5604395604395604,
+        "lift": 1.9716686690914855,
+        "context_rule_score": 1.1064101043425967
+      }
+    ]
+  }
+}

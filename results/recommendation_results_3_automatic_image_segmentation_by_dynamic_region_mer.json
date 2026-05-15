@@ -1,0 +1,1021 @@
+{
+  "search_context": {
+    "query_text": "automatic image segmentation by dynamic region merging",
+    "author_query": "Bo Peng",
+    "cluster_query": null,
+    "top_k": 5,
+    "query_keywords_used_for_rules": [
+      "segmentation",
+      "merging",
+      "automatic",
+      "image",
+      "dynamic",
+      "region"
+    ]
+  },
+  "page_ranking_top_5": [
+    {
+      "paper_id": "1012.1193",
+      "title_clean": "automatic image segmentation by dynamic region merging",
+      "authors_list": [
+        "Bo Peng",
+        "Lei Zhang",
+        "David Zhang"
+      ],
+      "paper_keywords": [
+        "merging",
+        "segmentation",
+        "image",
+        "region"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "10.1109/TIP.2011.2157512",
+      "journal_ref": "",
+      "page_rank_score": 0.6818353166410203,
+      "search_text_score": 0.7197255277350337,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1010.0417",
+      "title_clean": "visual-hint boundary to segment algorithm for image segmentation",
+      "authors_list": [
+        "Yu Su",
+        "Margaret H. Dunham"
+      ],
+      "paper_keywords": [
+        "segmentation",
+        "image",
+        "visual",
+        "boundaries"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.28879741187878394,
+      "search_text_score": 0.48132901979797327,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1506.03852",
+      "title_clean": "tree-cut for probabilistic image segmentation",
+      "authors_list": [
+        "Shell X. Hu",
+        "Christopher K. I. Williams",
+        "Sinisa Todorovic"
+      ],
+      "paper_keywords": [
+        "image",
+        "segmentation",
+        "tree",
+        "cuts"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.2826005165817886,
+      "search_text_score": 0.47100086096964766,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1004.4709",
+      "title_clean": "optimal content placement for peer-to-peer video-on-demand systems",
+      "authors_list": [
+        "Bo",
+        "Tan",
+        "Laurent Massoulie"
+      ],
+      "paper_keywords": [
+        "peer",
+        "placement",
+        "content",
+        "utilization"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.2,
+      "search_text_score": 0.0,
+      "author_match_score": 0.8,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1602.03048",
+      "title_clean": "bayesian nonparametric image segmentation using a generalized swendsen-wang algorithm",
+      "authors_list": [
+        "Richard Yi Da Xu",
+        "Francois Caron",
+        "Arnaud Doucet"
+      ],
+      "paper_keywords": [
+        "potts",
+        "bayesian_nonparametric",
+        "segmentation",
+        "image"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.19502053836081612,
+      "search_text_score": 0.3250342306013602,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    }
+  ],
+  "normal_recommendations": {
+    "paper_to_paper_embedding_similarity": [
+      {
+        "paper_id": "1502.01400",
+        "title_clean": "fast unsupervised bayesian image segmentation with adaptive spatial regularisation",
+        "authors_list": [
+          "Marcelo Pereyra",
+          "Steve McLaughlin"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "bayesian",
+          "unsupervised",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5268663167953491
+      },
+      {
+        "paper_id": "0908.1860",
+        "title_clean": "joint image restoration and segmentation using gauss-markov-potts prior models and variational bayesian computation: technical details",
+        "authors_list": [
+          "Hacheme Ayasso",
+          "Ali Mohammad-Djafari"
+        ],
+        "paper_keywords": [
+          "joint",
+          "variational",
+          "posterior",
+          "potts"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2010.2047902",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.49843207001686096
+      },
+      {
+        "paper_id": "1511.04817",
+        "title_clean": "probabilistic segmentation via total variation regularization",
+        "authors_list": [
+          "Matt Wytock",
+          "J. Zico Kolter"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "total_variation",
+          "regularization",
+          "probabilistic"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.49611949920654297
+      },
+      {
+        "paper_id": "1001.3735",
+        "title_clean": "gradient based seeded region grow method for ct angiographic image segmentation",
+        "authors_list": [
+          "G. N. Harikrishna Rai",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "images",
+          "segmentation",
+          "medical",
+          "region"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "InterJRI Computer Science and Networking, Volume 1, Issue 1, pp\n  1-6, 2009",
+        "embedding_similarity_score": 0.46656233072280884
+      },
+      {
+        "paper_id": "1205.4450",
+        "title_clean": "spectral graph cut from a filtering point of view",
+        "authors_list": [
+          "Chengxi Ye",
+          "Yuxu Lin",
+          "Mingli Song",
+          "Chun Chen",
+          "David W. Jacobs"
+        ],
+        "paper_keywords": [
+          "cut",
+          "normalized",
+          "segmentation",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.463802695274353
+      },
+      {
+        "paper_id": "1005.0527",
+        "title_clean": "detecting the most unusual part of two and three-dimensional digital images",
+        "authors_list": [
+          "Kostadin Koroutchev",
+          "Elka Korutcheva"
+        ],
+        "paper_keywords": [
+          "image",
+          "unusual",
+          "databases",
+          "digital"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Pattern Recognition 42(8): 1684-1692 (2009)",
+        "embedding_similarity_score": 0.45178836584091187
+      },
+      {
+        "paper_id": "0906.4745",
+        "title_clean": "a q-ising model application for linear-time image segmentation",
+        "authors_list": [
+          "Frank W. Bentrem"
+        ],
+        "paper_keywords": [
+          "potts",
+          "segmentation",
+          "ising",
+          "time"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "10.2478/s11534-009-0165-y",
+        "journal_ref": "Open Physics, vol. 8, pp. 689-698 (2010)",
+        "embedding_similarity_score": 0.45160168409347534
+      },
+      {
+        "paper_id": "1204.6653",
+        "title_clean": "elimination of glass artifacts and object segmentation",
+        "authors_list": [
+          "Vini Katyal",
+          "Aviral",
+          "Deepesh Srivastava"
+        ],
+        "paper_keywords": [
+          "glass",
+          "image",
+          "corrupted",
+          "segmentation"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.5120/6215-8919",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4475943446159363
+      },
+      {
+        "paper_id": "1506.01286",
+        "title_clean": "peaksegjoint: fast supervised peak detection via joint segmentation of multiple count data samples",
+        "authors_list": [
+          "Toby Dylan Hocking",
+          "Guillaume Bourque"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "peak",
+          "samples",
+          "supervised"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.442891001701355
+      },
+      {
+        "paper_id": "1202.2160",
+        "title_clean": "scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "authors_list": [
+          "Clément Farabet",
+          "Camille Couprie",
+          "Laurent Najman",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "feature",
+          "image",
+          "pixel",
+          "dataset"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.43879377841949463
+      }
+    ],
+    "same_cluster_topic_papers": [
+      {
+        "paper_id": "1502.01400",
+        "title_clean": "fast unsupervised bayesian image segmentation with adaptive spatial regularisation",
+        "authors_list": [
+          "Marcelo Pereyra",
+          "Steve McLaughlin"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "bayesian",
+          "unsupervised",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5268663167953491
+      },
+      {
+        "paper_id": "0908.1860",
+        "title_clean": "joint image restoration and segmentation using gauss-markov-potts prior models and variational bayesian computation: technical details",
+        "authors_list": [
+          "Hacheme Ayasso",
+          "Ali Mohammad-Djafari"
+        ],
+        "paper_keywords": [
+          "joint",
+          "variational",
+          "posterior",
+          "potts"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2010.2047902",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.49843207001686096
+      },
+      {
+        "paper_id": "1511.04817",
+        "title_clean": "probabilistic segmentation via total variation regularization",
+        "authors_list": [
+          "Matt Wytock",
+          "J. Zico Kolter"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "total_variation",
+          "regularization",
+          "probabilistic"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.49611949920654297
+      },
+      {
+        "paper_id": "1001.3735",
+        "title_clean": "gradient based seeded region grow method for ct angiographic image segmentation",
+        "authors_list": [
+          "G. N. Harikrishna Rai",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "images",
+          "segmentation",
+          "medical",
+          "region"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "InterJRI Computer Science and Networking, Volume 1, Issue 1, pp\n  1-6, 2009",
+        "same_cluster_similarity": 0.46656233072280884
+      },
+      {
+        "paper_id": "1205.4450",
+        "title_clean": "spectral graph cut from a filtering point of view",
+        "authors_list": [
+          "Chengxi Ye",
+          "Yuxu Lin",
+          "Mingli Song",
+          "Chun Chen",
+          "David W. Jacobs"
+        ],
+        "paper_keywords": [
+          "cut",
+          "normalized",
+          "segmentation",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.463802695274353
+      },
+      {
+        "paper_id": "1005.0527",
+        "title_clean": "detecting the most unusual part of two and three-dimensional digital images",
+        "authors_list": [
+          "Kostadin Koroutchev",
+          "Elka Korutcheva"
+        ],
+        "paper_keywords": [
+          "image",
+          "unusual",
+          "databases",
+          "digital"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Pattern Recognition 42(8): 1684-1692 (2009)",
+        "same_cluster_similarity": 0.45178836584091187
+      },
+      {
+        "paper_id": "0906.4745",
+        "title_clean": "a q-ising model application for linear-time image segmentation",
+        "authors_list": [
+          "Frank W. Bentrem"
+        ],
+        "paper_keywords": [
+          "potts",
+          "segmentation",
+          "ising",
+          "time"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "10.2478/s11534-009-0165-y",
+        "journal_ref": "Open Physics, vol. 8, pp. 689-698 (2010)",
+        "same_cluster_similarity": 0.45160168409347534
+      },
+      {
+        "paper_id": "1204.6653",
+        "title_clean": "elimination of glass artifacts and object segmentation",
+        "authors_list": [
+          "Vini Katyal",
+          "Aviral",
+          "Deepesh Srivastava"
+        ],
+        "paper_keywords": [
+          "glass",
+          "image",
+          "corrupted",
+          "segmentation"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.5120/6215-8919",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4475943446159363
+      },
+      {
+        "paper_id": "1506.01286",
+        "title_clean": "peaksegjoint: fast supervised peak detection via joint segmentation of multiple count data samples",
+        "authors_list": [
+          "Toby Dylan Hocking",
+          "Guillaume Bourque"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "peak",
+          "samples",
+          "supervised"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.442891001701355
+      },
+      {
+        "paper_id": "1202.2160",
+        "title_clean": "scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "authors_list": [
+          "Clément Farabet",
+          "Camille Couprie",
+          "Laurent Najman",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "feature",
+          "image",
+          "pixel",
+          "dataset"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.43879377841949463
+      }
+    ],
+    "same_author_papers": [
+      {
+        "paper_id": "1202.4207",
+        "title_clean": "regularized robust coding for face recognition",
+        "authors_list": [
+          "Meng Yang",
+          "Lei Zhang",
+          "Jian Yang",
+          "David Zhang"
+        ],
+        "paper_keywords": [
+          "coding",
+          "face",
+          "regularized",
+          "residual"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2012.2235849",
+        "journal_ref": "",
+        "same_author_score": 2.0
+      },
+      {
+        "paper_id": "1011.1761",
+        "title_clean": "efficient bayesian inference for generalized bradley-terry models",
+        "authors_list": [
+          "Francois Caron",
+          "Arnaud Doucet"
+        ],
+        "paper_keywords": [
+          "algorithms",
+          "bayesian_inference",
+          "latent_variables",
+          "inference"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 2.0
+      },
+      {
+        "paper_id": "1509.08787",
+        "title_clean": "gibbs flow for approximate transport with applications to bayesian computation",
+        "authors_list": [
+          "Jeremy Heng",
+          "Arnaud Doucet",
+          "Yvo Pokern"
+        ],
+        "paper_keywords": [
+          "map",
+          "transport",
+          "distributions",
+          "ordinary_differential"
+        ],
+        "year": 2020,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1511.04992",
+        "title_clean": "the correlated pseudo-marginal method",
+        "authors_list": [
+          "George Deligiannidis",
+          "Arnaud Doucet",
+          "Michael K. Pitt"
+        ],
+        "paper_keywords": [
+          "marginal",
+          "pseudo",
+          "log_likelihood",
+          "algorithm"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1602.05128",
+        "title_clean": "interacting particle markov chain monte carlo",
+        "authors_list": [
+          "Tom Rainforth",
+          "Christian A. Naesseth",
+          "Fredrik Lindsten",
+          "Brooks Paige",
+          "Jan-Willem van de Meent",
+          "Arnaud Doucet",
+          "Frank Wood"
+        ],
+        "paper_keywords": [
+          "interacting",
+          "monte_carlo",
+          "monte",
+          "chain_monte"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "JMLR W&CP 48 : 2616-2625, 2016",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1510.02451",
+        "title_clean": "the bouncy particle sampler: a non-reversible rejection-free markov chain monte carlo method",
+        "authors_list": [
+          "Alexandre Bouchard-Côté",
+          "Sebastian J. Vollmer",
+          "Arnaud Doucet"
+        ],
+        "paper_keywords": [
+          "markov",
+          "reversible",
+          "original",
+          "target"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1508.02663",
+        "title_clean": "particle gibbs split-merge sampling for bayesian inference in mixture models",
+        "authors_list": [
+          "Alexandre Bouchard-Côté",
+          "Arnaud Doucet",
+          "Andrew Roth"
+        ],
+        "paper_keywords": [
+          "merge",
+          "split",
+          "gibbs",
+          "sampler"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1210.1316",
+        "title_clean": "learning locality-constrained collaborative representation for face recognition",
+        "authors_list": [
+          "Xi Peng",
+          "Lei Zhang",
+          "Zhang Yi",
+          "Kok Kiong Tan"
+        ],
+        "paper_keywords": [
+          "representation",
+          "locality",
+          "collaborative",
+          "distance"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1016/j.patcog.2014.03.013",
+        "journal_ref": "Pattern Recognition, 47 (9), 2794-2806, 2014",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1604.04741",
+        "title_clean": "smoothed hierarchical dirichlet process: a non-parametric approach to constraint measures",
+        "authors_list": [
+          "Cheng Luo",
+          "Yang Xiang",
+          "Richard Yi Da Xu"
+        ],
+        "paper_keywords": [
+          "dirichlet_process",
+          "constraint",
+          "dirichlet",
+          "hierarchical"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "0909.4353",
+        "title_clean": "transient dynamics of molecular devices under step-like pulse bias",
+        "authors_list": [
+          "Bin Wang",
+          "Yanxia Xing",
+          "Lei Zhang",
+          "Jian Wang"
+        ],
+        "paper_keywords": [
+          "resonant",
+          "molecular",
+          "devices",
+          "pulse"
+        ],
+        "year": 2015,
+        "cluster_id": 4,
+        "doi": "10.1103/PhysRevB.81.121103",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      }
+    ]
+  },
+  "association_rule_recommendations": {
+    "recommended_papers": [
+      {
+        "paper_id": "1502.01400",
+        "title_clean": "fast unsupervised bayesian image segmentation with adaptive spatial regularisation",
+        "authors_list": [
+          "Marcelo Pereyra",
+          "Steve McLaughlin"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "bayesian",
+          "unsupervised",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.5268663167953491,
+        "association_recommendation_score": 0.3317165791988373
+      },
+      {
+        "paper_id": "0908.1860",
+        "title_clean": "joint image restoration and segmentation using gauss-markov-potts prior models and variational bayesian computation: technical details",
+        "authors_list": [
+          "Hacheme Ayasso",
+          "Ali Mohammad-Djafari"
+        ],
+        "paper_keywords": [
+          "joint",
+          "variational",
+          "posterior",
+          "potts"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2010.2047902",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.49843207001686096,
+        "association_recommendation_score": 0.32460801750421525
+      },
+      {
+        "paper_id": "1511.04817",
+        "title_clean": "probabilistic segmentation via total variation regularization",
+        "authors_list": [
+          "Matt Wytock",
+          "J. Zico Kolter"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "total_variation",
+          "regularization",
+          "probabilistic"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.49611949920654297,
+        "association_recommendation_score": 0.32402987480163575
+      },
+      {
+        "paper_id": "1001.3735",
+        "title_clean": "gradient based seeded region grow method for ct angiographic image segmentation",
+        "authors_list": [
+          "G. N. Harikrishna Rai",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "images",
+          "segmentation",
+          "medical",
+          "region"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "InterJRI Computer Science and Networking, Volume 1, Issue 1, pp\n  1-6, 2009",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.46656233072280884,
+        "association_recommendation_score": 0.3166405826807022
+      },
+      {
+        "paper_id": "1205.4450",
+        "title_clean": "spectral graph cut from a filtering point of view",
+        "authors_list": [
+          "Chengxi Ye",
+          "Yuxu Lin",
+          "Mingli Song",
+          "Chun Chen",
+          "David W. Jacobs"
+        ],
+        "paper_keywords": [
+          "cut",
+          "normalized",
+          "segmentation",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.463802695274353,
+        "association_recommendation_score": 0.31595067381858827
+      },
+      {
+        "paper_id": "1005.0527",
+        "title_clean": "detecting the most unusual part of two and three-dimensional digital images",
+        "authors_list": [
+          "Kostadin Koroutchev",
+          "Elka Korutcheva"
+        ],
+        "paper_keywords": [
+          "image",
+          "unusual",
+          "databases",
+          "digital"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Pattern Recognition 42(8): 1684-1692 (2009)",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.45178836584091187,
+        "association_recommendation_score": 0.312947091460228
+      },
+      {
+        "paper_id": "0906.4745",
+        "title_clean": "a q-ising model application for linear-time image segmentation",
+        "authors_list": [
+          "Frank W. Bentrem"
+        ],
+        "paper_keywords": [
+          "potts",
+          "segmentation",
+          "ising",
+          "time"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "10.2478/s11534-009-0165-y",
+        "journal_ref": "Open Physics, vol. 8, pp. 689-698 (2010)",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.45160168409347534,
+        "association_recommendation_score": 0.31290042102336885
+      },
+      {
+        "paper_id": "1204.6653",
+        "title_clean": "elimination of glass artifacts and object segmentation",
+        "authors_list": [
+          "Vini Katyal",
+          "Aviral",
+          "Deepesh Srivastava"
+        ],
+        "paper_keywords": [
+          "glass",
+          "image",
+          "corrupted",
+          "segmentation"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.5120/6215-8919",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4475943446159363,
+        "association_recommendation_score": 0.3118985861539841
+      },
+      {
+        "paper_id": "1506.01286",
+        "title_clean": "peaksegjoint: fast supervised peak detection via joint segmentation of multiple count data samples",
+        "authors_list": [
+          "Toby Dylan Hocking",
+          "Guillaume Bourque"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "peak",
+          "samples",
+          "supervised"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.442891001701355,
+        "association_recommendation_score": 0.31072275042533876
+      },
+      {
+        "paper_id": "1202.2160",
+        "title_clean": "scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "authors_list": [
+          "Clément Farabet",
+          "Camille Couprie",
+          "Laurent Najman",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "feature",
+          "image",
+          "pixel",
+          "dataset"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.43879377841949463,
+        "association_recommendation_score": 0.30969844460487367
+      }
+    ],
+    "recommended_authors": [],
+    "recommended_clusters": [
+      1
+    ],
+    "recommended_keywords": [],
+    "matched_rules": [
+      {
+        "antecedents": [
+          "keyword:image"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0022501687626571994,
+        "confidence": 0.7758620689655172,
+        "lift": 2.8564207632928746,
+        "context_rule_score": 2.2211753214316357
+      },
+      {
+        "antecedents": [
+          "keyword:dynamic"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0013250993824536841,
+        "confidence": 0.6794871794871795,
+        "lift": 2.501606104376723,
+        "context_rule_score": 1.7020616922728342
+      },
+      {
+        "antecedents": [
+          "keyword:tree"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0014001050078755906,
+        "confidence": 0.5957446808510638,
+        "lift": 2.1932989690721647,
+        "context_rule_score": 1.3084756362210823
+      }
+    ]
+  }
+}

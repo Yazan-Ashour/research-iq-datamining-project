@@ -1,0 +1,1166 @@
+{
+  "search_context": {
+    "query_text": "wireless sensor network",
+    "author_query": "N. Javaid",
+    "cluster_query": null,
+    "top_k": 5,
+    "query_keywords_used_for_rules": [
+      "sensor_network",
+      "wireless_sensor",
+      "sensor",
+      "wireless",
+      "network"
+    ]
+  },
+  "page_ranking_top_5": [
+    {
+      "paper_id": "1208.2397",
+      "title_clean": "performance analysis of hierarchical routing protocols in wireless sensor networks",
+      "authors_list": [
+        "K. Latif",
+        "M. Jaffar",
+        "N. Javaid",
+        "M. N. Saqib",
+        "U. Qasim",
+        "Z. A. Khan"
+      ],
+      "paper_keywords": [
+        "routing",
+        "sensor",
+        "clustering",
+        "nodes"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/BWCCA.2012.108",
+      "journal_ref": "",
+      "page_rank_score": 0.4666485261527904,
+      "search_text_score": 0.36108087692131735,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1212.4106",
+      "title_clean": "energy efficient sleep awake aware intelligent sensor network routing protocol",
+      "authors_list": [
+        "T. Shah",
+        "N. Javaid",
+        "T. N. Qureshi"
+      ],
+      "paper_keywords": [
+        "network",
+        "routing",
+        "sensor",
+        "intelligent"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/INMIC.2012.6511504",
+      "journal_ref": "",
+      "page_rank_score": 0.4372898834021658,
+      "search_text_score": 0.31214980567027634,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1208.2399",
+      "title_clean": "optimal number of cluster head selection for efficient distribution of sources in wsns",
+      "authors_list": [
+        "M. S. Fareed",
+        "N. Javaid",
+        "M. Akbar",
+        "S. Rehman",
+        "U. Qasim",
+        "Z. A. Khan"
+      ],
+      "paper_keywords": [
+        "sensor",
+        "cluster",
+        "sensors",
+        "protocols"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/BWCCA.2012.110",
+      "journal_ref": "",
+      "page_rank_score": 0.3921787483437483,
+      "search_text_score": 0.23696458057291378,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1212.4336",
+      "title_clean": "combined human, antenna orientation in elevation direction and ground effect on rssi in wireless sensor networks",
+      "authors_list": [
+        "Syed Hassan Ahmed",
+        "Safdar H. Bouk",
+        "N. Javaid",
+        "Iwao Sasase"
+      ],
+      "paper_keywords": [
+        "antenna",
+        "human",
+        "effect",
+        "ground"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/FIT.2012.17",
+      "journal_ref": "",
+      "page_rank_score": 0.37982283006822326,
+      "search_text_score": 0.21637138344703882,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1207.3595",
+      "title_clean": "ceec: centralized energy efficient clustering a new routing protocol for wsns",
+      "authors_list": [
+        "M. Aslam",
+        "T. Shah",
+        "N. Javaid",
+        "A. Rahim",
+        "Z. Rahman",
+        "Z. A. Khan"
+      ],
+      "paper_keywords": [
+        "routing",
+        "energy",
+        "protocols",
+        "network"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1109/SECON.2012.6275763",
+      "journal_ref": "",
+      "page_rank_score": 0.37274133264691844,
+      "search_text_score": 0.20456888774486404,
+      "author_match_score": 1.0,
+      "cluster_match_score": 0.0
+    }
+  ],
+  "normal_recommendations": {
+    "paper_to_paper_embedding_similarity": [
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.7204278707504272
+      },
+      {
+        "paper_id": "1201.1018",
+        "title_clean": "un protocole de routage a basse consommation d energie selon l approche de clustering pour les r eseaux de capteurs sans fils",
+        "authors_list": [
+          "Manel Khelifi",
+          "Assia Djabelkhir"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "clustering",
+          "consumption",
+          "routing"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.669474720954895
+      },
+      {
+        "paper_id": "1101.0250",
+        "title_clean": "an adaptive and multi-service routing protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "routing",
+          "subsystem",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/APCC.2010.5679779",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.6502412557601929
+      },
+      {
+        "paper_id": "1112.2409",
+        "title_clean": "medium access control protocols for wireless sensor networks with energy harvesting",
+        "authors_list": [
+          "Fabio Iannello",
+          "Osvaldo Simeone",
+          "Umberto Spagnolini"
+        ],
+        "paper_keywords": [
+          "design",
+          "delivery",
+          "lifetime",
+          "sensor"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/TCOMM.2012.030712.110089",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5699577927589417
+      },
+      {
+        "paper_id": "1011.3088",
+        "title_clean": "design and implementation of a wireless sensor network for smart homes",
+        "authors_list": [
+          "Ming Xu",
+          "Longhua Ma",
+          "Feng Xia",
+          "Tengkai Yuan",
+          "Jixin Qian",
+          "Meng Shao"
+        ],
+        "paper_keywords": [
+          "smart",
+          "wireless_sensor",
+          "sensor",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/UIC-ATC.2010.16",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5596466064453125
+      },
+      {
+        "paper_id": "1203.6316",
+        "title_clean": "performance optimization of multiple interconnected heterogeneous sensor networks via collaborative information sharing",
+        "authors_list": [
+          "Sougata Pal",
+          "Simon Oechsner",
+          "Boris Bellalta",
+          "Miquel Oliver"
+        ],
+        "paper_keywords": [
+          "sensor_networks",
+          "sensor",
+          "networks",
+          "multiple"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5481635928153992
+      },
+      {
+        "paper_id": "1103.3616",
+        "title_clean": "energy-optimal scheduling in low duty cycle sensor networks",
+        "authors_list": [
+          "Nursen Aydin",
+          "Mehmet Karaca",
+          "Ozgur Ercetin"
+        ],
+        "paper_keywords": [
+          "node",
+          "low",
+          "energy",
+          "active"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.537330150604248
+      },
+      {
+        "paper_id": "0906.0252",
+        "title_clean": "progressive processing of continuous range queries in hierarchical wireless sensor networks",
+        "authors_list": [
+          "Jeong-Hoon Lee",
+          "Kyu-Young Whang",
+          "Hyo-Sang Lim",
+          "Byung-Suk Lee",
+          "Jun-Seok Heo"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "queries",
+          "hierarchical",
+          "sensor_networks"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1587/transinf.E93.D.1832",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5350667238235474
+      },
+      {
+        "paper_id": "1012.2528",
+        "title_clean": "a secure aggregation protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "aggregation",
+          "node",
+          "aggregate",
+          "network"
+        ],
+        "year": 2021,
+        "cluster_id": 1,
+        "doi": "10.13140/RG.2.1.1077.5287",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5300915241241455
+      },
+      {
+        "paper_id": "1208.2335",
+        "title_clean": "hsep: heterogeneity-aware hierarchical stable election protocol for wsns",
+        "authors_list": [
+          "A. A. Khan",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. Lu",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "election",
+          "heterogeneity",
+          "protocol",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.70",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.5299391150474548
+      }
+    ],
+    "same_cluster_topic_papers": [
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.7204278707504272
+      },
+      {
+        "paper_id": "1201.1018",
+        "title_clean": "un protocole de routage a basse consommation d energie selon l approche de clustering pour les r eseaux de capteurs sans fils",
+        "authors_list": [
+          "Manel Khelifi",
+          "Assia Djabelkhir"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "clustering",
+          "consumption",
+          "routing"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.669474720954895
+      },
+      {
+        "paper_id": "1101.0250",
+        "title_clean": "an adaptive and multi-service routing protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "routing",
+          "subsystem",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/APCC.2010.5679779",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.6502412557601929
+      },
+      {
+        "paper_id": "1112.2409",
+        "title_clean": "medium access control protocols for wireless sensor networks with energy harvesting",
+        "authors_list": [
+          "Fabio Iannello",
+          "Osvaldo Simeone",
+          "Umberto Spagnolini"
+        ],
+        "paper_keywords": [
+          "design",
+          "delivery",
+          "lifetime",
+          "sensor"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/TCOMM.2012.030712.110089",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5699577927589417
+      },
+      {
+        "paper_id": "1011.3088",
+        "title_clean": "design and implementation of a wireless sensor network for smart homes",
+        "authors_list": [
+          "Ming Xu",
+          "Longhua Ma",
+          "Feng Xia",
+          "Tengkai Yuan",
+          "Jixin Qian",
+          "Meng Shao"
+        ],
+        "paper_keywords": [
+          "smart",
+          "wireless_sensor",
+          "sensor",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/UIC-ATC.2010.16",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5596466064453125
+      },
+      {
+        "paper_id": "1203.6316",
+        "title_clean": "performance optimization of multiple interconnected heterogeneous sensor networks via collaborative information sharing",
+        "authors_list": [
+          "Sougata Pal",
+          "Simon Oechsner",
+          "Boris Bellalta",
+          "Miquel Oliver"
+        ],
+        "paper_keywords": [
+          "sensor_networks",
+          "sensor",
+          "networks",
+          "multiple"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5481635928153992
+      },
+      {
+        "paper_id": "1103.3616",
+        "title_clean": "energy-optimal scheduling in low duty cycle sensor networks",
+        "authors_list": [
+          "Nursen Aydin",
+          "Mehmet Karaca",
+          "Ozgur Ercetin"
+        ],
+        "paper_keywords": [
+          "node",
+          "low",
+          "energy",
+          "active"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.537330150604248
+      },
+      {
+        "paper_id": "0906.0252",
+        "title_clean": "progressive processing of continuous range queries in hierarchical wireless sensor networks",
+        "authors_list": [
+          "Jeong-Hoon Lee",
+          "Kyu-Young Whang",
+          "Hyo-Sang Lim",
+          "Byung-Suk Lee",
+          "Jun-Seok Heo"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "queries",
+          "hierarchical",
+          "sensor_networks"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1587/transinf.E93.D.1832",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5350667238235474
+      },
+      {
+        "paper_id": "1012.2528",
+        "title_clean": "a secure aggregation protocol for wireless sensor networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "aggregation",
+          "node",
+          "aggregate",
+          "network"
+        ],
+        "year": 2021,
+        "cluster_id": 1,
+        "doi": "10.13140/RG.2.1.1077.5287",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5300915241241455
+      },
+      {
+        "paper_id": "1208.2335",
+        "title_clean": "hsep: heterogeneity-aware hierarchical stable election protocol for wsns",
+        "authors_list": [
+          "A. A. Khan",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. Lu",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "election",
+          "heterogeneity",
+          "protocol",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.70",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.5299391150474548
+      }
+    ],
+    "same_author_papers": [
+      {
+        "paper_id": "1208.2351",
+        "title_clean": "a comprehensive survey of mac protocols for wireless body area networks",
+        "authors_list": [
+          "A. Rahim",
+          "N. Javaid",
+          "M. Aslam",
+          "Z. Rahman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "body",
+          "comprehensive",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.77",
+        "journal_ref": "",
+        "same_author_score": 6.0
+      },
+      {
+        "paper_id": "1208.2400",
+        "title_clean": "analyzing energy-efficiency and route-selection of multi-level hierarchal routing protocols in wsns",
+        "authors_list": [
+          "M. S. Fareed",
+          "N. Javaid",
+          "S. Ahmed",
+          "S. Rehman",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "protocols",
+          "route",
+          "sensors",
+          "wireless"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.109",
+        "journal_ref": "",
+        "same_author_score": 5.0
+      },
+      {
+        "paper_id": "1207.3599",
+        "title_clean": "adaptive-reliable medium access control protocol for wireless body area networks",
+        "authors_list": [
+          "A. Rahim",
+          "N. Javaid",
+          "M. Aslam",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "mac",
+          "protocol",
+          "energy",
+          "layer"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/SECON.2012.6275829",
+        "journal_ref": "",
+        "same_author_score": 5.0
+      },
+      {
+        "paper_id": "1208.2335",
+        "title_clean": "hsep: heterogeneity-aware hierarchical stable election protocol for wsns",
+        "authors_list": [
+          "A. A. Khan",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. Lu",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "election",
+          "heterogeneity",
+          "protocol",
+          "nodes"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.70",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2331",
+        "title_clean": "monitoring and controlling power using zigbee communications",
+        "authors_list": [
+          "N. Javaid",
+          "A. Sharif",
+          "A. Mahmood",
+          "S. Ahmed",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "power",
+          "communication",
+          "controlling",
+          "monitoring"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.107",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2409",
+        "title_clean": "transmission delay of multi-hop heterogeneous networks for medical applications",
+        "authors_list": [
+          "M. M. Yaqoob",
+          "I. Israr",
+          "N. Javaid",
+          "M. A. Khan",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "health",
+          "sent",
+          "care",
+          "data"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.76",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1212.4237",
+        "title_clean": "on link availability probability of routing protocols for urban scenario in vanets",
+        "authors_list": [
+          "S. Kumar",
+          "N. Javaid",
+          "Z. Yousuf",
+          "H. Kumar",
+          "Z. A. Khan",
+          "U. Qasim"
+        ],
+        "paper_keywords": [
+          "routing",
+          "mod",
+          "availability",
+          "link"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ICOS.2012.6417632",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2376",
+        "title_clean": "analytical survey of wearable sensors",
+        "authors_list": [
+          "A. Rehman",
+          "M. Mustafa",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "sensors",
+          "monitoring",
+          "blood",
+          "survey"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.73",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2406",
+        "title_clean": "simulation analysis of medium access techniques",
+        "authors_list": [
+          "I. Israr",
+          "M. M. Yaqoob",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "access",
+          "multiple_access",
+          "comparison",
+          "delay"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.105",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      },
+      {
+        "paper_id": "1208.2378",
+        "title_clean": "routing load of route calculation and route maintenance in wireless proactive routing protocols",
+        "authors_list": [
+          "D. Mahmood",
+          "N. Javaid",
+          "U. Qasim",
+          "Z. A. Khan"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "route",
+          "framework"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/BWCCA.2012.34",
+        "journal_ref": "",
+        "same_author_score": 3.0
+      }
+    ]
+  },
+  "association_rule_recommendations": {
+    "recommended_papers": [
+      {
+        "paper_id": "1203.6316",
+        "title_clean": "performance optimization of multiple interconnected heterogeneous sensor networks via collaborative information sharing",
+        "authors_list": [
+          "Sougata Pal",
+          "Simon Oechsner",
+          "Boris Bellalta",
+          "Miquel Oliver"
+        ],
+        "paper_keywords": [
+          "sensor_networks",
+          "sensor",
+          "networks",
+          "multiple"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.5481635928153992,
+        "association_recommendation_score": 0.6370408982038498
+      },
+      {
+        "paper_id": "1009.2576",
+        "title_clean": "a simple battery aware gossip based sleep protocol for densely deployed ad-hoc and sensor networks",
+        "authors_list": [
+          "Ashish Shukla"
+        ],
+        "paper_keywords": [
+          "protocol",
+          "aware",
+          "networks",
+          "sensor_networks"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ccnc08.2007.169",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.4752151370048523,
+        "association_recommendation_score": 0.6188037842512131
+      },
+      {
+        "paper_id": "1107.1970",
+        "title_clean": "a packet scheduling strategy in sensor networks with sgmh protocol",
+        "authors_list": [
+          "Mary Cherian",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "sensor_networks",
+          "sensor",
+          "real_time",
+          "networks"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/ICCCNT.2010.5591556",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.4545489251613617,
+        "association_recommendation_score": 0.6136372312903404
+      },
+      {
+        "paper_id": "1110.2480",
+        "title_clean": "beyond traditional dtn routing: social networks for opportunistic communication",
+        "authors_list": [
+          "Mary R. Schurgot",
+          "Cristina Comaniciu",
+          "Katia Jaffrès-Runser"
+        ],
+        "paper_keywords": [
+          "routing",
+          "protocols",
+          "opportunistic",
+          "networks"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/MCOM.2012.6231292",
+        "journal_ref": "Schurgot, M.R.; Comaniciu, C.; Jaffres-Runser, K.; , \"Beyond\n  Traditional DTN Routing: Social Networks for Opportunistic Communication,\"\n  IEEE Communications Magazine, vol.50, no.7, pp.155-162, July 2012",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.3952409327030182,
+        "association_recommendation_score": 0.5988102331757545
+      },
+      {
+        "paper_id": "0911.3357",
+        "title_clean": "fundamentals of large sensor networks: connectivity, capacity, clocks and computation",
+        "authors_list": [
+          "Nikolaos M. Freris",
+          "Hemant Kowshik",
+          "P. R. Kumar"
+        ],
+        "paper_keywords": [
+          "sensor",
+          "sensor_networks",
+          "connectivity",
+          "networks"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/JPROC.2010.2065790",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.387567400932312,
+        "association_recommendation_score": 0.596891850233078
+      },
+      {
+        "paper_id": "1101.0241",
+        "title_clean": "an intrusion detection architecture for clustered wireless ad hoc networks",
+        "authors_list": [
+          "Jaydip Sen"
+        ],
+        "paper_keywords": [
+          "detection",
+          "architecture",
+          "cooperative",
+          "networks"
+        ],
+        "year": 2021,
+        "cluster_id": 1,
+        "doi": "10.1109/CICSyN.2010.51",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.38403797149658203,
+        "association_recommendation_score": 0.5960094928741455
+      },
+      {
+        "paper_id": "0705.1787",
+        "title_clean": "energy-efficient resource allocation in wireless networks: an overview of game-theoretic approaches",
+        "authors_list": [
+          "Farhad Meshkati",
+          "H. Vincent Poor",
+          "Stuart C. Schwartz"
+        ],
+        "paper_keywords": [
+          "allocation",
+          "game",
+          "resource_allocation",
+          "networks"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/MSP.2007.361602",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.36359044909477234,
+        "association_recommendation_score": 0.5908976122736931
+      },
+      {
+        "paper_id": "1301.0965",
+        "title_clean": "improving vanet protocols via network science",
+        "authors_list": [
+          "Romeu Monteiro",
+          "Susana Sargento",
+          "Wantanee Viriyasitavat",
+          "Ozan K. Tonguz"
+        ],
+        "paper_keywords": [
+          "networks",
+          "protocols",
+          "urban",
+          "network"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1109/VNC.2012.6407428",
+        "journal_ref": "R. Monteiro, S. Sargento, W. Viriyasitavat, and O. K. Tonguz,\n  \"Improving VANET Protocols via Network Science\", in Proceedings of the 2012\n  IEEE Vehicular Networking Conference (VNC), Korea, November 2012",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.36084988713264465,
+        "association_recommendation_score": 0.5902124717831612
+      },
+      {
+        "paper_id": "1102.1770",
+        "title_clean": "efficient routing strategies in scale-free networks with limited bandwidth",
+        "authors_list": [
+          "Ming Tang",
+          "Tao Zhou"
+        ],
+        "paper_keywords": [
+          "routing",
+          "internet",
+          "throughput",
+          "networks"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1103/PhysRevE.84.026116",
+        "journal_ref": "Physical Review E 84 (2011) 026116",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.3517231345176697,
+        "association_recommendation_score": 0.5879307836294174
+      },
+      {
+        "paper_id": "1108.4729",
+        "title_clean": "self-organized network design by link survivals and shortcuts",
+        "authors_list": [
+          "Yukio Hayashi",
+          "Yuki Meguro"
+        ],
+        "paper_keywords": [
+          "networks",
+          "self_organized",
+          "organized",
+          "link"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1016/j.physa.2011.08.047",
+        "journal_ref": "Physica A 391, pp.872-879, 2012",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 1.0,
+        "association_embedding_similarity": 0.3423362970352173,
+        "association_recommendation_score": 0.5855840742588043
+      }
+    ],
+    "recommended_authors": [],
+    "recommended_clusters": [
+      1,
+      2,
+      4
+    ],
+    "recommended_keywords": [
+      "networks"
+    ],
+    "matched_rules": [
+      {
+        "antecedents": [
+          "keyword:wireless"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0014501087581568618,
+        "confidence": 1.0,
+        "lift": 3.681608983799705,
+        "context_rule_score": 3.686947717231222
+      },
+      {
+        "antecedents": [
+          "keyword:routing"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0012500937570317774,
+        "confidence": 0.9803921568627452,
+        "lift": 3.6094205723526525,
+        "context_rule_score": 3.5430712612516198
+      },
+      {
+        "antecedents": [
+          "keyword:network"
+        ],
+        "consequents": [
+          "keyword:networks"
+        ],
+        "rule_type": "keyword_to_keyword",
+        "support": 0.001225091881891142,
+        "confidence": 0.15217391304347824,
+        "lift": 22.710820895522385,
+        "context_rule_score": 3.460228394887565
+      },
+      {
+        "antecedents": [
+          "keyword:network"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.00730054754106558,
+        "confidence": 0.9068322981366458,
+        "lift": 3.3386019356196077,
+        "context_rule_score": 3.049654853631109
+      },
+      {
+        "antecedents": [
+          "keyword:nodes"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.002225166887516564,
+        "confidence": 0.898989898989899,
+        "lift": 3.309729288466402,
+        "context_rule_score": 2.9820339896487975
+      },
+      {
+        "antecedents": [
+          "keyword:clustering"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.003500262519688977,
+        "confidence": 0.8536585365853658,
+        "lift": 3.1428369373899923,
+        "context_rule_score": 2.692300468547808
+      },
+      {
+        "antecedents": [
+          "keyword:sensor"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.001775133134985124,
+        "confidence": 0.8255813953488372,
+        "lift": 3.039467881974175,
+        "context_rule_score": 2.513782526637413
+      },
+      {
+        "antecedents": [
+          "keyword:cluster"
+        ],
+        "consequents": [
+          "cluster:2"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.003600270020251519,
+        "confidence": 0.6180257510729613,
+        "lift": 3.86539108141755,
+        "context_rule_score": 2.3975119517528394
+      },
+      {
+        "antecedents": [
+          "keyword:protocols"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0011500862564692352,
+        "confidence": 0.7301587301587301,
+        "lift": 2.6881589405521655,
+        "context_rule_score": 1.965040087927387
+      },
+      {
+        "antecedents": [
+          "keyword:ground"
+        ],
+        "consequents": [
+          "cluster:4"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0010750806310473285,
+        "confidence": 0.7049180327868851,
+        "lift": 2.4799548383654715,
+        "context_rule_score": 1.7500443042697869
+      }
+    ]
+  }
+}

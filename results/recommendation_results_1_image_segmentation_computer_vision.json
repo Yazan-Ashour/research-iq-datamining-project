@@ -1,0 +1,1019 @@
+{
+  "search_context": {
+    "query_text": "image segmentation computer vision",
+    "author_query": null,
+    "cluster_query": null,
+    "top_k": 5,
+    "query_keywords_used_for_rules": [
+      "vision",
+      "segmentation",
+      "computer",
+      "image"
+    ]
+  },
+  "page_ranking_top_5": [
+    {
+      "paper_id": "1010.0417",
+      "title_clean": "visual-hint boundary to segment algorithm for image segmentation",
+      "authors_list": [
+        "Yu Su",
+        "Margaret H. Dunham"
+      ],
+      "paper_keywords": [
+        "segmentation",
+        "image",
+        "visual",
+        "boundaries"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.27671265394247846,
+      "search_text_score": 0.46118775657079747,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1506.03852",
+      "title_clean": "tree-cut for probabilistic image segmentation",
+      "authors_list": [
+        "Shell X. Hu",
+        "Christopher K. I. Williams",
+        "Sinisa Todorovic"
+      ],
+      "paper_keywords": [
+        "image",
+        "segmentation",
+        "tree",
+        "cuts"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.2514100851358434,
+      "search_text_score": 0.419016808559739,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1012.1193",
+      "title_clean": "automatic image segmentation by dynamic region merging",
+      "authors_list": [
+        "Bo Peng",
+        "Lei Zhang",
+        "David Zhang"
+      ],
+      "paper_keywords": [
+        "merging",
+        "segmentation",
+        "image",
+        "region"
+      ],
+      "year": 2015,
+      "cluster_id": 1,
+      "doi": "10.1109/TIP.2011.2157512",
+      "journal_ref": "",
+      "page_rank_score": 0.23229197936884172,
+      "search_text_score": 0.38715329894806955,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1205.4450",
+      "title_clean": "spectral graph cut from a filtering point of view",
+      "authors_list": [
+        "Chengxi Ye",
+        "Yuxu Lin",
+        "Mingli Song",
+        "Chun Chen",
+        "David W. Jacobs"
+      ],
+      "paper_keywords": [
+        "cut",
+        "normalized",
+        "segmentation",
+        "image"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "",
+      "journal_ref": "",
+      "page_rank_score": 0.21555535642579662,
+      "search_text_score": 0.3592589273763277,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    },
+    {
+      "paper_id": "1007.4531",
+      "title_clean": "competitive analysis of minimum-cut maximum flow algorithms in vision problems",
+      "authors_list": [
+        "Barak Fishbain",
+        "Dorit S. Hochbaum",
+        "Stefan Mueller"
+      ],
+      "paper_keywords": [
+        "vision",
+        "cut",
+        "algorithms",
+        "problems"
+      ],
+      "year": 2016,
+      "cluster_id": 1,
+      "doi": "10.1007/s11554-013-0344-3.",
+      "journal_ref": "Journal of Real-Time Image Processing, March 2016, Vol. 11, Issue\n  3, pp 589-609. (Online April 2013.)",
+      "page_rank_score": 0.2127963470366866,
+      "search_text_score": 0.3546605783944777,
+      "author_match_score": 0.0,
+      "cluster_match_score": 0.0
+    }
+  ],
+  "normal_recommendations": {
+    "paper_to_paper_embedding_similarity": [
+      {
+        "paper_id": "1204.6653",
+        "title_clean": "elimination of glass artifacts and object segmentation",
+        "authors_list": [
+          "Vini Katyal",
+          "Aviral",
+          "Deepesh Srivastava"
+        ],
+        "paper_keywords": [
+          "glass",
+          "image",
+          "corrupted",
+          "segmentation"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.5120/6215-8919",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.49978771805763245
+      },
+      {
+        "paper_id": "1001.3735",
+        "title_clean": "gradient based seeded region grow method for ct angiographic image segmentation",
+        "authors_list": [
+          "G. N. Harikrishna Rai",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "images",
+          "segmentation",
+          "medical",
+          "region"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "InterJRI Computer Science and Networking, Volume 1, Issue 1, pp\n  1-6, 2009",
+        "embedding_similarity_score": 0.4873308539390564
+      },
+      {
+        "paper_id": "1602.03048",
+        "title_clean": "bayesian nonparametric image segmentation using a generalized swendsen-wang algorithm",
+        "authors_list": [
+          "Richard Yi Da Xu",
+          "Francois Caron",
+          "Arnaud Doucet"
+        ],
+        "paper_keywords": [
+          "potts",
+          "bayesian_nonparametric",
+          "segmentation",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4858044981956482
+      },
+      {
+        "paper_id": "1004.0887",
+        "title_clean": "a pruned dynamic programming algorithm to recover the best segmentations with to change-points",
+        "authors_list": [
+          "Guillem Rigaill"
+        ],
+        "paper_keywords": [
+          "change_points",
+          "change",
+          "segment",
+          "algorithm"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "J-Sfds Vol. 156, No 4 2015 pgs. 180-205",
+        "embedding_similarity_score": 0.46925097703933716
+      },
+      {
+        "paper_id": "1008.4250",
+        "title_clean": "cluster editing: kernelization based on edge cuts",
+        "authors_list": [
+          "Yixin Cao",
+          "Jianer Chen"
+        ],
+        "paper_keywords": [
+          "problem",
+          "kernel",
+          "cuts",
+          "version"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1007/978-3-642-17493-3_8",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4500589966773987
+      },
+      {
+        "paper_id": "1202.2160",
+        "title_clean": "scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "authors_list": [
+          "Clément Farabet",
+          "Camille Couprie",
+          "Laurent Najman",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "feature",
+          "image",
+          "pixel",
+          "dataset"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.44216978549957275
+      },
+      {
+        "paper_id": "1209.1826",
+        "title_clean": "a spatio-spectral hybridization for edge preservation and noisy image restoration via local parametric mixtures and lagrangian relaxation",
+        "authors_list": [
+          "Kinjal Basu",
+          "Debapriya Sengupta"
+        ],
+        "paper_keywords": [
+          "edge",
+          "image",
+          "noisy",
+          "smooth"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.43329501152038574
+      },
+      {
+        "paper_id": "1005.0527",
+        "title_clean": "detecting the most unusual part of two and three-dimensional digital images",
+        "authors_list": [
+          "Kostadin Koroutchev",
+          "Elka Korutcheva"
+        ],
+        "paper_keywords": [
+          "image",
+          "unusual",
+          "databases",
+          "digital"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Pattern Recognition 42(8): 1684-1692 (2009)",
+        "embedding_similarity_score": 0.4323148727416992
+      },
+      {
+        "paper_id": "0710.0736",
+        "title_clean": "colour image segmentation by the vector-valued allen-cahn phase-field model: a multigrid solution",
+        "authors_list": [
+          "David A Kay",
+          "Alessandro Tomasi"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "allen",
+          "numerical_solution",
+          "colour"
+        ],
+        "year": 2018,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2009.2026678",
+        "journal_ref": "IEEE Trans. Im. Proc. 18.10 (2009)",
+        "embedding_similarity_score": 0.4293476939201355
+      },
+      {
+        "paper_id": "1210.7638",
+        "title_clean": "finding efficient region in the plane with line segments",
+        "authors_list": [
+          "Jack Wang"
+        ],
+        "paper_keywords": [
+          "obstacles",
+          "algorithm",
+          "path",
+          "point"
+        ],
+        "year": 2018,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "embedding_similarity_score": 0.4260972738265991
+      }
+    ],
+    "same_cluster_topic_papers": [
+      {
+        "paper_id": "1204.6653",
+        "title_clean": "elimination of glass artifacts and object segmentation",
+        "authors_list": [
+          "Vini Katyal",
+          "Aviral",
+          "Deepesh Srivastava"
+        ],
+        "paper_keywords": [
+          "glass",
+          "image",
+          "corrupted",
+          "segmentation"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.5120/6215-8919",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.49978771805763245
+      },
+      {
+        "paper_id": "1001.3735",
+        "title_clean": "gradient based seeded region grow method for ct angiographic image segmentation",
+        "authors_list": [
+          "G. N. Harikrishna Rai",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "images",
+          "segmentation",
+          "medical",
+          "region"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "InterJRI Computer Science and Networking, Volume 1, Issue 1, pp\n  1-6, 2009",
+        "same_cluster_similarity": 0.4873308539390564
+      },
+      {
+        "paper_id": "1602.03048",
+        "title_clean": "bayesian nonparametric image segmentation using a generalized swendsen-wang algorithm",
+        "authors_list": [
+          "Richard Yi Da Xu",
+          "Francois Caron",
+          "Arnaud Doucet"
+        ],
+        "paper_keywords": [
+          "potts",
+          "bayesian_nonparametric",
+          "segmentation",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4858044981956482
+      },
+      {
+        "paper_id": "1004.0887",
+        "title_clean": "a pruned dynamic programming algorithm to recover the best segmentations with to change-points",
+        "authors_list": [
+          "Guillem Rigaill"
+        ],
+        "paper_keywords": [
+          "change_points",
+          "change",
+          "segment",
+          "algorithm"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "J-Sfds Vol. 156, No 4 2015 pgs. 180-205",
+        "same_cluster_similarity": 0.46925097703933716
+      },
+      {
+        "paper_id": "1008.4250",
+        "title_clean": "cluster editing: kernelization based on edge cuts",
+        "authors_list": [
+          "Yixin Cao",
+          "Jianer Chen"
+        ],
+        "paper_keywords": [
+          "problem",
+          "kernel",
+          "cuts",
+          "version"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1007/978-3-642-17493-3_8",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4500589966773987
+      },
+      {
+        "paper_id": "1202.2160",
+        "title_clean": "scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "authors_list": [
+          "Clément Farabet",
+          "Camille Couprie",
+          "Laurent Najman",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "feature",
+          "image",
+          "pixel",
+          "dataset"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.44216978549957275
+      },
+      {
+        "paper_id": "1209.1826",
+        "title_clean": "a spatio-spectral hybridization for edge preservation and noisy image restoration via local parametric mixtures and lagrangian relaxation",
+        "authors_list": [
+          "Kinjal Basu",
+          "Debapriya Sengupta"
+        ],
+        "paper_keywords": [
+          "edge",
+          "image",
+          "noisy",
+          "smooth"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.43329501152038574
+      },
+      {
+        "paper_id": "1005.0527",
+        "title_clean": "detecting the most unusual part of two and three-dimensional digital images",
+        "authors_list": [
+          "Kostadin Koroutchev",
+          "Elka Korutcheva"
+        ],
+        "paper_keywords": [
+          "image",
+          "unusual",
+          "databases",
+          "digital"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Pattern Recognition 42(8): 1684-1692 (2009)",
+        "same_cluster_similarity": 0.4323148727416992
+      },
+      {
+        "paper_id": "0710.0736",
+        "title_clean": "colour image segmentation by the vector-valued allen-cahn phase-field model: a multigrid solution",
+        "authors_list": [
+          "David A Kay",
+          "Alessandro Tomasi"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "allen",
+          "numerical_solution",
+          "colour"
+        ],
+        "year": 2018,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2009.2026678",
+        "journal_ref": "IEEE Trans. Im. Proc. 18.10 (2009)",
+        "same_cluster_similarity": 0.4293476939201355
+      },
+      {
+        "paper_id": "1210.7638",
+        "title_clean": "finding efficient region in the plane with line segments",
+        "authors_list": [
+          "Jack Wang"
+        ],
+        "paper_keywords": [
+          "obstacles",
+          "algorithm",
+          "path",
+          "point"
+        ],
+        "year": 2018,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_cluster_similarity": 0.4260972738265991
+      }
+    ],
+    "same_author_papers": [
+      {
+        "paper_id": "1202.4207",
+        "title_clean": "regularized robust coding for face recognition",
+        "authors_list": [
+          "Meng Yang",
+          "Lei Zhang",
+          "Jian Yang",
+          "David Zhang"
+        ],
+        "paper_keywords": [
+          "coding",
+          "face",
+          "regularized",
+          "residual"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2012.2235849",
+        "journal_ref": "",
+        "same_author_score": 2.0
+      },
+      {
+        "paper_id": "1010.1945",
+        "title_clean": "submodular problems - approximations and algorithms",
+        "authors_list": [
+          "Dorit S. Hochbaum"
+        ],
+        "paper_keywords": [
+          "submodular",
+          "polynomial_time",
+          "problem"
+        ],
+        "year": 2017,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1010.4535",
+        "title_clean": "replacing spectral techniques for expander ratio, normalized cut and conductance by combinatorial flow algorithms",
+        "authors_list": [
+          "Dorit S. Hochbaum"
+        ],
+        "paper_keywords": [
+          "problems",
+          "ratio",
+          "relaxation",
+          "spectral"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Operations Research Vol. 61, No. 1, January-February 2013, pp.\n  184-198",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1210.1316",
+        "title_clean": "learning locality-constrained collaborative representation for face recognition",
+        "authors_list": [
+          "Xi Peng",
+          "Lei Zhang",
+          "Zhang Yi",
+          "Kok Kiong Tan"
+        ],
+        "paper_keywords": [
+          "representation",
+          "locality",
+          "collaborative",
+          "distance"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "10.1016/j.patcog.2014.03.013",
+        "journal_ref": "Pattern Recognition, 47 (9), 2794-2806, 2014",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "0909.4353",
+        "title_clean": "transient dynamics of molecular devices under step-like pulse bias",
+        "authors_list": [
+          "Bin Wang",
+          "Yanxia Xing",
+          "Lei Zhang",
+          "Jian Wang"
+        ],
+        "paper_keywords": [
+          "resonant",
+          "molecular",
+          "devices",
+          "pulse"
+        ],
+        "year": 2015,
+        "cluster_id": 4,
+        "doi": "10.1103/PhysRevB.81.121103",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1004.5076",
+        "title_clean": "a novel boundary element method using surface conductive absorbers for full-wave analysis of -d nanophotonics",
+        "authors_list": [
+          "Lei Zhang",
+          "Jung Hoon Lee",
+          "Ardavan Oskooi",
+          "Amit Hochman",
+          "Jacob K. White",
+          "Steven G. Johnson"
+        ],
+        "paper_keywords": [
+          "absorber",
+          "conductivity",
+          "surface",
+          "devices"
+        ],
+        "year": 2015,
+        "cluster_id": 4,
+        "doi": "10.1109/JLT.2011.2107727",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "0903.0381",
+        "title_clean": "profile of bubbling solutions to a liouville system",
+        "authors_list": [
+          "Chang-shou Lin",
+          "Lei Zhang"
+        ],
+        "paper_keywords": [
+          "liouville",
+          "uniqueness",
+          "uniform",
+          "estimate"
+        ],
+        "year": 2015,
+        "cluster_id": 3,
+        "doi": "10.1016/j.anihpc.2009.09.001",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1012.1184",
+        "title_clean": "image deblurring and super-resolution by adaptive sparse domain selection and adaptive regularization",
+        "authors_list": [
+          "Weisheng Dong",
+          "Lei Zhang",
+          "Guangming Shi",
+          "Xiaolin Wu"
+        ],
+        "paper_keywords": [
+          "image",
+          "sparse",
+          "regularization",
+          "adaptive"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2011.2108306",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1101.0294",
+        "title_clean": "virtual full duplex wireless broadcasting via compressed sensing",
+        "authors_list": [
+          "Lei Zhang",
+          "Dongning Guo"
+        ],
+        "paper_keywords": [
+          "duplex",
+          "neighbors",
+          "message",
+          "wireless"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      },
+      {
+        "paper_id": "1012.1007",
+        "title_clean": "neighbor discovery for wireless networks via compressed sensing",
+        "authors_list": [
+          "Lei Zhang",
+          "Jun Luo",
+          "Dongning Guo"
+        ],
+        "paper_keywords": [
+          "node",
+          "discovery",
+          "nodes",
+          "compressed"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "same_author_score": 1.0
+      }
+    ]
+  },
+  "association_rule_recommendations": {
+    "recommended_papers": [
+      {
+        "paper_id": "1204.6653",
+        "title_clean": "elimination of glass artifacts and object segmentation",
+        "authors_list": [
+          "Vini Katyal",
+          "Aviral",
+          "Deepesh Srivastava"
+        ],
+        "paper_keywords": [
+          "glass",
+          "image",
+          "corrupted",
+          "segmentation"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.5120/6215-8919",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.49978771805763245,
+        "association_recommendation_score": 0.3249469295144081
+      },
+      {
+        "paper_id": "1001.3735",
+        "title_clean": "gradient based seeded region grow method for ct angiographic image segmentation",
+        "authors_list": [
+          "G. N. Harikrishna Rai",
+          "T. R. Gopalakrishnan Nair"
+        ],
+        "paper_keywords": [
+          "images",
+          "segmentation",
+          "medical",
+          "region"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "InterJRI Computer Science and Networking, Volume 1, Issue 1, pp\n  1-6, 2009",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4873308539390564,
+        "association_recommendation_score": 0.3218327134847641
+      },
+      {
+        "paper_id": "1602.03048",
+        "title_clean": "bayesian nonparametric image segmentation using a generalized swendsen-wang algorithm",
+        "authors_list": [
+          "Richard Yi Da Xu",
+          "Francois Caron",
+          "Arnaud Doucet"
+        ],
+        "paper_keywords": [
+          "potts",
+          "bayesian_nonparametric",
+          "segmentation",
+          "image"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4858044981956482,
+        "association_recommendation_score": 0.32145112454891206
+      },
+      {
+        "paper_id": "1004.0887",
+        "title_clean": "a pruned dynamic programming algorithm to recover the best segmentations with to change-points",
+        "authors_list": [
+          "Guillem Rigaill"
+        ],
+        "paper_keywords": [
+          "change_points",
+          "change",
+          "segment",
+          "algorithm"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "J-Sfds Vol. 156, No 4 2015 pgs. 180-205",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.46925097703933716,
+        "association_recommendation_score": 0.3173127442598343
+      },
+      {
+        "paper_id": "1008.4250",
+        "title_clean": "cluster editing: kernelization based on edge cuts",
+        "authors_list": [
+          "Yixin Cao",
+          "Jianer Chen"
+        ],
+        "paper_keywords": [
+          "problem",
+          "kernel",
+          "cuts",
+          "version"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "10.1007/978-3-642-17493-3_8",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4500589966773987,
+        "association_recommendation_score": 0.3125147491693497
+      },
+      {
+        "paper_id": "1202.2160",
+        "title_clean": "scene parsing with multiscale feature learning, purity trees, and optimal covers",
+        "authors_list": [
+          "Clément Farabet",
+          "Camille Couprie",
+          "Laurent Najman",
+          "Yann LeCun"
+        ],
+        "paper_keywords": [
+          "feature",
+          "image",
+          "pixel",
+          "dataset"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.44216978549957275,
+        "association_recommendation_score": 0.3105424463748932
+      },
+      {
+        "paper_id": "1209.1826",
+        "title_clean": "a spatio-spectral hybridization for edge preservation and noisy image restoration via local parametric mixtures and lagrangian relaxation",
+        "authors_list": [
+          "Kinjal Basu",
+          "Debapriya Sengupta"
+        ],
+        "paper_keywords": [
+          "edge",
+          "image",
+          "noisy",
+          "smooth"
+        ],
+        "year": 2016,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.43329501152038574,
+        "association_recommendation_score": 0.30832375288009645
+      },
+      {
+        "paper_id": "1005.0527",
+        "title_clean": "detecting the most unusual part of two and three-dimensional digital images",
+        "authors_list": [
+          "Kostadin Koroutchev",
+          "Elka Korutcheva"
+        ],
+        "paper_keywords": [
+          "image",
+          "unusual",
+          "databases",
+          "digital"
+        ],
+        "year": 2015,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "Pattern Recognition 42(8): 1684-1692 (2009)",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4323148727416992,
+        "association_recommendation_score": 0.3080787181854248
+      },
+      {
+        "paper_id": "0710.0736",
+        "title_clean": "colour image segmentation by the vector-valued allen-cahn phase-field model: a multigrid solution",
+        "authors_list": [
+          "David A Kay",
+          "Alessandro Tomasi"
+        ],
+        "paper_keywords": [
+          "segmentation",
+          "allen",
+          "numerical_solution",
+          "colour"
+        ],
+        "year": 2018,
+        "cluster_id": 1,
+        "doi": "10.1109/TIP.2009.2026678",
+        "journal_ref": "IEEE Trans. Im. Proc. 18.10 (2009)",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4293476939201355,
+        "association_recommendation_score": 0.3073369234800339
+      },
+      {
+        "paper_id": "1210.7638",
+        "title_clean": "finding efficient region in the plane with line segments",
+        "authors_list": [
+          "Jack Wang"
+        ],
+        "paper_keywords": [
+          "obstacles",
+          "algorithm",
+          "path",
+          "point"
+        ],
+        "year": 2018,
+        "cluster_id": 1,
+        "doi": "",
+        "journal_ref": "",
+        "association_author_score": 0.0,
+        "association_cluster_score": 1.0,
+        "association_keyword_score": 0.0,
+        "association_embedding_similarity": 0.4260972738265991,
+        "association_recommendation_score": 0.3065243184566498
+      }
+    ],
+    "recommended_authors": [],
+    "recommended_clusters": [
+      1
+    ],
+    "recommended_keywords": [],
+    "matched_rules": [
+      {
+        "antecedents": [
+          "keyword:algorithms"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0032252418931419855,
+        "confidence": 0.9020979020979021,
+        "lift": 3.3211717406305032,
+        "context_rule_score": 3.005684955589432
+      },
+      {
+        "antecedents": [
+          "keyword:image"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0022501687626571994,
+        "confidence": 0.7758620689655172,
+        "lift": 2.8564207632928746,
+        "context_rule_score": 2.2211753214316357
+      },
+      {
+        "antecedents": [
+          "keyword:problems"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0016251218841413105,
+        "confidence": 0.6989247311827956,
+        "lift": 2.5731675693223743,
+        "context_rule_score": 1.801373152863492
+      },
+      {
+        "antecedents": [
+          "keyword:tree"
+        ],
+        "consequents": [
+          "cluster:1"
+        ],
+        "rule_type": "keyword_to_topic",
+        "support": 0.0014001050078755906,
+        "confidence": 0.5957446808510638,
+        "lift": 2.1932989690721647,
+        "context_rule_score": 1.3084756362210823
+      }
+    ]
+  }
+}
