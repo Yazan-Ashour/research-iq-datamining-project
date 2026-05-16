@@ -21,6 +21,12 @@ networkx>=3.0
 # ── Association rule mining
 mlxtend>=0.22
 
+# TF-IDF vectorizer
+scikit-learn>=1.3 
+
+# Time Series Forecasting
+pmdarima>=2.0  
+
 # ── Visualisation
 plotly>=5.17
 streamlit>=1.30
