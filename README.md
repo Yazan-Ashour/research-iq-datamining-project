@@ -36,7 +36,7 @@ categories are used as input at any stage. Every pattern is discovered from raw 
 
 ## Live Demo
 
-> Demo video coming soon — link will be added here before the presentation.
+> Demo video coming soon — link will be added here
 
 ---
 
@@ -46,7 +46,7 @@ categories are used as input at any stage. Every pattern is discovered from raw 
 ResearchIQ/
 ├── data/
 │   ├── prosecced/                      # Processed pipeline outputs
-│   │   ├── embeddings.npy              # (N × 384) sentence embeddings
+│   │   ├── embeddings.npy              # (40000 × 728) sentence embeddings
 │   │   ├── paper_ids.npy               # Aligned paper ID array
 │   │   ├── papers_clean.parquet        # Cleaned corpus — NO category labels
 │   │   ├── papers_timeseries.parquet   # Full corpus for time series (1.9M)
@@ -72,7 +72,7 @@ ResearchIQ/
 │   ├── cluster_distribution.png        # Cluster size visualisation
 │   ├── clustering_results.json         # Cluster metrics and parameters
 │   ├── dimensionality_reduction.json   # UMAP evaluation results
-│   ├── papers_2d_projection.csv        # UMAP 2D coordinates (39,999 papers)
+│   ├── papers_2d_projection.csv        # UMAP 2D coordinates (40000 papers)
 │   ├── papers_with_clusters.parquet    # Clustered papers with all features
 │   ├── pipeline_summary.json           # Full pipeline run summary
 │   ├── recommendation_results.json     # Recommender system outputs
@@ -104,7 +104,7 @@ data/raw/arxiv-metadata-oai-snapshot.json
 | Property | Value |
 |---|---|
 | Raw papers available | 3.4 million+ |
-| Papers used (clustering) | 39,999 |
+| Papers used (clustering) | 40000 |
 | Papers used (time series) | 1.9 million |
 | Fields covered | CS, Math, Physics, Astrophysics, HEP, Quantum, Condensed Matter, Statistics |
 | Year range | 2015 – 2026 |
@@ -152,7 +152,7 @@ saved to disk and reused by later steps.
 python data-processing/load_and_clean.py
 ```
 
-Streams the ArXiv JSON file line by line, samples up to 3,000 papers per
+Streams the ArXiv JSON file line by line, samples up to 5,000 papers per
 category group for years 2015–2024, applies abstract length and year filters,
 strips all category labels from the feature set, and saves two files:
 
@@ -168,12 +168,12 @@ python data-processing/embed.py
 Encodes each paper's title and abstract using the `Alibaba-NLP/gte-modernbert-base`
 sentence-transformer model (728 dimensions, L2-normalised).
 
-> **Tip:** Run this step on Google Colab free GPU (~6 minutes) rather than CPU
+> **Tip:** Run this step on Google Colab free GPU (~2 minutes) rather than CPU
 > (~60 minutes). Upload `papers_clean.parquet`, run the script, then download
 > `embeddings.npy` and `paper_ids.npy`.
 
 Outputs:
-- `data/prosecced/embeddings.npy` — (39,999 × 384) float32 array
+- `data/prosecced/embeddings.npy` — (4000 × 728) float32 array
 - `data/prosecced/paper_ids.npy` — aligned paper ID array
 
 ### Step 3 — Run the recommendation pipeline
@@ -288,7 +288,7 @@ across disciplines, not merely growing in isolation.
 
 | Page | Description | Techniques demonstrated |
 |---|---|---|
-| **Knowledge Map** | Interactive UMAP scatter plot of 39,999 papers as coloured dots with cluster filters and keyword search | Clustering · Dimensionality reduction |
+| **Knowledge Map** | Interactive UMAP scatter plot of 40000 papers as coloured dots with cluster filters and keyword search | Clustering · Dimensionality reduction |
 | **Trend Explorer** | Annual publication trends, keyword heatmap, ARIMA forecast charts, anomaly markers | Time series · TF-IDF |
 | **Paper Recommender** | Search by topic or author — returns ranked similar papers with similarity scores | Recommender system · Embeddings |
 | **Association Rules** | 660 rules with confidence/lift scatter plot and interactive filters | Association rule mining |
@@ -311,12 +311,12 @@ accordance with the project requirements.
   keywords and may be imprecise for cross-disciplinary clusters that span
   multiple fields.
 
-- **Recommender cold start.** Papers not present in the 39,999-paper clustered
+- **Recommender cold start.** Papers not present in the 40000-paper clustered
   corpus cannot be recommended. Only papers with pre-computed embeddings are
   searchable.
 
 - **2015 sampling bias in clustering corpus.** The clustering pipeline samples
-  3,000 papers per category using oldest-first streaming, which over-represents
+  5,000 papers per category using oldest-first streaming, which over-represents
   2015. The time series analysis uses the full 1.9M corpus to avoid this.
   Cluster trend analysis uses in-memory year-stratified resampling.
 
