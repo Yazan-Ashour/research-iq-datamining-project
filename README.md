@@ -36,7 +36,10 @@ categories are used as input at any stage. Every pattern is discovered from raw 
 
 ## Live Demo
 
-> Demo video coming soon — link will be added here
+
+
+https://github.com/user-attachments/assets/4a626b2d-ae1f-4ff5-827f-2afdb6f47d80
+
 
 ---
 
