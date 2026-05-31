@@ -34,6 +34,9 @@ categories are used as input at any stage. Every pattern is discovered from raw 
 
 ---
 
+ **Live App:**
+ https://research-iq.streamlit.app/
+
 ## Live Demo
 
 
